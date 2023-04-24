@@ -10,5 +10,10 @@
 In autumn my friend told me about Dare IT. I started to observe girls from Dare IT on Linked In and Instagram. I was on a few webinars. I attended an online job fair organized by Dare IT and I fell in love with that organization. After the job fair, I was very uplifted and determined to get new skills and start my career in IT as QA Tester. The automation part of testing is very alluring for me, I loved working with software, testing applications, and developing my digital skills. I'm pleased that I can do that with Dare It. I believe that I will be a good tester.😃*
 ### Subtask 4 Scouts panel- expoatory testing
 
-"Scout panel" to aplikacja służąca dla zawodników piłki nożnej, która umożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników.
-W aplikacji można dodać nowego zawodnika. 
+-"Scout panel" to aplikacja służąca dla zawodników piłki nożnej, która umożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników.
+- Funkcjonalności aplikacji:
+   - Dodawanie nowego gracza wypełniając formularz
+   - Dla kazdego zawodnika można dodać mecz w którym wziął/będzie brał udział za pomocą przycisku "Mecze">>> DODAJ MECZ
+   - Dla każdego zawodnika istnieje możliwośc stworzenia raportu za pomocą  przycisku "Raporty">>> DODAJ RAPORT
+   - można wyświetlić listę graczy za pomocą przycisku "Gracze"
+   - istnieje możliwośc zmiany jezyka wyświetlania, dostępne języki : polski, angielski

@@ -28,5 +28,5 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
     - mozlliwość dodania zawodnika, którego imie i nawisko zawodnika , które zawierają liczby i znaki specjalne 
     - możliwośc wpisania w pola zdobyte gole, stracone gole, oznaczające ilość  liter
     - po wciśnięciu przyciski "+Dodaj raport" w panelu "Raporty" przycisk zmienia się na przycisk "+ Dodaj mecz" bez informacji 
-    - 
+   
    Podsumowując, w mojej opini interfejs aplikacji mało intuicyjny oraz mało atrakcyjny, wręcz nudny. Na stronie aplikacji brak jest walidacji wielu pól.

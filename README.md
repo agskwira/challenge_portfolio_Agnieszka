@@ -25,7 +25,7 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
    - Na liście mecze są możliwe do wykonania akcje t.j. edycja karty meczu, stworzenie raportu, rzpoczęcie meczu - opcje intuicyjne 
    
   - Błędy
-    - mozlliwość dodania zawodnika, którego imie i nawisko zawodnika , które zawierają liczby i znaki specjalne 
+    - mozlliwość dodania zawodnika, którego imie i nawisko zawodnika, zawierają liczby i znaki specjalne 
     - możliwośc wpisania w pola zdobyte gole, stracone gole, oznaczające ilość  liter
     - po wciśnięciu przyciski "+Dodaj raport" w panelu "Raporty" przycisk zmienia się na przycisk "+ Dodaj mecz" bez informacji 
    

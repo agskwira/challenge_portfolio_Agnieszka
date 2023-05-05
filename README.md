@@ -13,7 +13,7 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
 
 - "Scout panel" to aplikacja służąca dla zawodników piłki nożnej, która umożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników.
 <details>
-   <summary>- Funkcjonalności aplikacji:</summary>
+   <summary>Funkcjonalności aplikacji:</summary>
    - Logowanie do aplikacji
    - Zmiana języka wyświetlania strony
    - Dodawanie nowego gracza wypełniając formularz
@@ -28,10 +28,12 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
      Opcja intuicyjna , możliwośc przełączania języków za pomocą przycisku przełączania 
    - Na liście mecze są możliwe do wykonania akcje t.j. edycja karty meczu, stworzenie raportu, rzpoczęcie meczu - opcje intuicyjne 
    </details>
-  - Błędy
+   <details>
+   <summary> Znaezione błędy aplikacji</summary>
     - mozlliwość dodania zawodnika, którego imie i nawisko zawodnika, zawierają liczby i znaki specjalne 
     - możliwośc wpisania w pola zdobyte gole, stracone gole, oznaczające ilość  liter
     - po wciśnięciu przyciski "+Dodaj raport" w panelu "Raporty" przycisk zmienia się na przycisk "+ Dodaj mecz" bez informacji 
+   </details>
    
    Podsumowując, w mojej opini interfejs aplikacji mało intuicyjny oraz mało atrakcyjny, wręcz nudny. Na stronie aplikacji brak jest walidacji wielu pól.
    ## Task 2 Przypadki testowe

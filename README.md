@@ -20,6 +20,7 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
  * Logowanie do aplikacji
  
  * Zmiana języka wyświetlania strony
+ 
  - Dodawanie nowego gracza wypełniając formularz
     W mojej opini opcja mało intuicyjna, przycisk "DODAJ GRACZA" znajduje się w panelu "Linki pomocnicze". W mojej opini dużo lepszym rozwiązanie byłoby dodanie tego          przycisku w panelu bocznym z prawej strony
  
@@ -39,11 +40,11 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
  <details>
 <summary> Znaezione błędy aplikacji</summary>
  
-  - mozlliwość dodania zawodnika, którego imie i nawisko zawodnika, zawierają liczby i znaki specjalne 
+  - Mozlliwość dodania zawodnika, którego imie i nawisko zawodnika, zawierają liczby i znaki specjalne 
  
-  - możliwośc wpisania w pola zdobyte gole, stracone gole, oznaczające ilość  liter
+  - Możliwośc wpisania w pola zdobyte gole, stracone gole, oznaczające ilość  liter
  
-  - po wciśnięciu przyciski "+Dodaj raport" w panelu "Raporty" przycisk zmienia się na przycisk "+ Dodaj mecz" bez informacji 
+  - Po wciśnięciu przyciski "+Dodaj raport" w panelu "Raporty" przycisk zmienia się na przycisk "+ Dodaj mecz" bez informacji 
 </details>
 <details>
 <summary> Ogólna subiektywna :nauseated_face: opinia o aplikacji "Scouts Panel"</summary>
@@ -65,5 +66,16 @@ https://docs.google.com/spreadsheets/d/1BS9FQMi4cMR6nWRtIOf_vz-EfgEsHABfbocw8Z0j
 <details>
 <summary>Przyoadek testowy wg ISTQB :woman_student:</summary>to zbiór danych wejściowych, wstępnych warunków wykonania, oczekiwanych rezultatów i końcowych warunków wykonania opracowany w określonym celu lub dla warunku    testowego, jak wykonanie pewnej ścieżki programu lub zweryfikowanie zgodności z konkretnym wymaganiem.
 </details>
+
+<details>
+ <summary> Dlaczego piszemy przypadki testowe :thinking:</summary>
+ 
+  * Przypadki testowe są bazą wiedzy o aplikacji
+  * Zdarza się, że przypadki testowe są jedyną dokumentacja o tym jak aplikacja prawidłowo powinna działać
+  * Przypadki testowe dają możliwość powtarzalnego, udokumentowanego testowania.
+  * Przypadki testowe dają możliwość konroli nad zmianami w konkretnych funkcjonalnościach aplikacji 
+  * Przypadki testowe pomagają przygotowac dane testowe
+  * Przypadki testowe opisują wizję klienta na temat działania aplikacji
+  
    
    

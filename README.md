@@ -56,11 +56,11 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
    
 ### Subtask 1 Pisanie przypadków testowych na podstawie User Story.
    
-https://docs.google.com/spreadsheets/d/1BS9FQMi4cMR6nWRtIOf_vz-EfgEsHABfbocw8Z0jvYM/edit?usp=share_link
+	:link: https://docs.google.com/spreadsheets/d/1BS9FQMi4cMR6nWRtIOf_vz-EfgEsHABfbocw8Z0jvYM/edit?usp=share_link
    
 ### Subtask 2 Pisanie przypadków testowych na podstawie “własnych doświadczeń.
    
-   https://docs.google.com/spreadsheets/d/1ktodWwi7WKhbJfeY0MSsycrN49G2QBi5VYoj_XrG70w/edit?usp=share_link
+	:link: https://docs.google.com/spreadsheets/d/1ktodWwi7WKhbJfeY0MSsycrN49G2QBi5VYoj_XrG70w/edit?usp=share_link
    
 ### Subtask 3 Po co piszemy test case’y?
 <details>

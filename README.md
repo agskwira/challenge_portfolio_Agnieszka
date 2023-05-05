@@ -15,7 +15,7 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
 "Scout panel" to aplikacja służąca dla zawodników piłki nożnej, która umożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników.
 </details>
 <details>
-   <summary>Funkcjonalności aplikacji "Scouts Panel":</summary>
+   <summary>Funkcjonalności aplikacji "Scouts Panel"</summary>
    - Logowanie do aplikacji
    - Zmiana języka wyświetlania strony
    - Dodawanie nowego gracza wypełniając formularz
@@ -41,7 +41,7 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
     W mojej opini interfejs aplikacji mało intuicyjny oraz mało atrakcyjny, wręcz nudny. Na stronie aplikacji brak jest walidacji wielu pól.
    Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałabym być uzytkownikem docelowym "Scouts Panel":wink:.
    </details>
-   ## Task 2 Przypadki testowe
+   ##Task 2 Przypadki testowe
    
    ### Subtask 1 Pisanie przypadków testowych na podstawie User Story.
    
@@ -53,7 +53,7 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
    
    ### Subtask 3 Po co piszemy test case’y?
    <details>
-   <summary>**Przyoadek testowy wg ISTQB** </summary>to zbiór danych wejściowych, wstępnych warunków wykonania, oczekiwanych rezultatów i końcowych warunków wykonania opracowany w określonym celu lub dla warunku    testowego, jak wykonanie pewnej ścieżki programu lub zweryfikowanie zgodności z konkretnym wymaganiem.
+   <summary>**Przyoadek testowy wg ISTQB :woman_student:** </summary>to zbiór danych wejściowych, wstępnych warunków wykonania, oczekiwanych rezultatów i końcowych warunków wykonania opracowany w określonym celu lub dla warunku    testowego, jak wykonanie pewnej ścieżki programu lub zweryfikowanie zgodności z konkretnym wymaganiem.
    </details>
    
    

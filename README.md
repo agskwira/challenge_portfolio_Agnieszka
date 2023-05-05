@@ -40,6 +40,7 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
    <summary> Ogólna subiektywna :nauseated_face: opinia o aplikacji "Scouts Panel"</summary>
     W mojej opini interfejs aplikacji mało intuicyjny oraz mało atrakcyjny, wręcz nudny. Na stronie aplikacji brak jest walidacji wielu pól.
    Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałabym być uzytkownikem docelowym "Scouts Panel":wink:.
+   </details>
    ## Task 2 Przypadki testowe
    
    ### Subtask 1 Pisanie przypadków testowych na podstawie User Story.
@@ -52,7 +53,6 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
    
    ### Subtask 3 Po co piszemy test case’y?
    <details>
-   <summary> Co to jest przypadek testowy wg ISTQB  :woman_student:</summary>
-    Wg ISTQB **Przyoadek testowy** to zbiór danych wejściowych, wstępnych warunków wykonania, oczekiwanych rezultatów i końcowych warunków wykonania opracowany w określonym celu lub dla warunku    testowego, jak wykonanie pewnej ścieżki programu lub zweryfikowanie zgodności z konkretnym wymaganiem.
+   <summary> __Przyoadek testowy__ to zbiór danych wejściowych, wstępnych warunków wykonania, oczekiwanych rezultatów i końcowych warunków wykonania opracowany w określonym celu lub dla warunku    testowego, jak wykonanie pewnej ścieżki programu lub zweryfikowanie zgodności z konkretnym wymaganiem.
    
    

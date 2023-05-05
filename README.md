@@ -11,11 +11,11 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
 
 ### Subtask 4 Scouts panel- expoatory testing
 <details>
-<summary> Do czgo służy aplikacja "Scouts Panel" </summary>
+<summary> Do czgo służy aplikacja "Scouts Panel" :bouncing_ball_person: </summary>
 "Scout panel" to aplikacja służąca dla zawodników piłki nożnej, która umożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników.
 </details>
 <details>
-<summary>Funkcjonalności aplikacji "Scouts Panel"</summary>
+<summary>Funkcjonalności aplikacji "Scouts Panel" 	:computer:</summary>
  
  * Logowanie do aplikacji
  
@@ -38,7 +38,7 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
  - Na liście mecze są możliwe do wykonania akcje t.j. edycja karty meczu, stworzenie raportu, rzpoczęcie meczu - opcje intuicyjne 
  </details>
  <details>
-<summary> Znaezione błędy aplikacji</summary>
+<summary> Znaezione błędy aplikacji :lady_beetle:</summary>
  
   - Mozlliwość dodania zawodnika, którego imie i nawisko zawodnika, zawierają liczby i znaki specjalne 
  
@@ -47,7 +47,7 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
   - Po wciśnięciu przyciski "+Dodaj raport" w panelu "Raporty" przycisk zmienia się na przycisk "+ Dodaj mecz" bez informacji 
 </details>
 <details>
-<summary> Ogólna subiektywna :nauseated_face: opinia o aplikacji "Scouts Panel"</summary>
+<summary> Ogólna subiektywna :nauseated_face: opinia o aplikacji "Scouts Panel":speaking_head:</summary>
  W mojej opini interfejs aplikacji mało intuicyjny oraz mało atrakcyjny, wręcz nudny. Na stronie aplikacji brak jest walidacji wielu pól.
 Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałabym być uzytkownikem docelowym "Scouts Panel":wink:.
 </details>

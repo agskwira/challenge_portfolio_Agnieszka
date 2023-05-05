@@ -11,7 +11,7 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
 
 ### Subtask 4 Scouts panel- expoatory testing
 
--"Scout panel" to aplikacja służąca dla zawodników piłki nożnej, która umożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników.
+- "Scout panel" to aplikacja służąca dla zawodników piłki nożnej, która umożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników.
 <details>
    <summary>- Funkcjonalności aplikacji:</summary>
    - Logowanie do aplikacji
@@ -27,7 +27,7 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
    - istnieje możliwośc zmiany jezyka wyświetlania, dostępne języki : polski, angielski
      Opcja intuicyjna , możliwośc przełączania języków za pomocą przycisku przełączania 
    - Na liście mecze są możliwe do wykonania akcje t.j. edycja karty meczu, stworzenie raportu, rzpoczęcie meczu - opcje intuicyjne 
-   
+   </details>
   - Błędy
     - mozlliwość dodania zawodnika, którego imie i nawisko zawodnika, zawierają liczby i znaki specjalne 
     - możliwośc wpisania w pola zdobyte gole, stracone gole, oznaczające ilość  liter

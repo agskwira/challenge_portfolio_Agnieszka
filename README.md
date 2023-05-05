@@ -16,7 +16,9 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
 </details>
 <details>
 <summary>Funkcjonalności aplikacji "Scouts Panel"</summary>
+ 
  * Logowanie do aplikacji
+ 
  * Zmiana języka wyświetlania strony
  - Dodawanie nowego gracza wypełniając formularz
     W mojej opini opcja mało intuicyjna, przycisk "DODAJ GRACZA" znajduje się w panelu "Linki pomocnicze". W mojej opini dużo lepszym rozwiązanie byłoby dodanie tego          przycisku w panelu bocznym z prawej strony

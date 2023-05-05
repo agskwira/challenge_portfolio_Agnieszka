@@ -9,10 +9,11 @@
 *Na zmianę ścieżki zawodowej zdecydowałam się około rok temu. Zaczełam czytać o zawodzie testera. Uczestniczyłam w kilku kursach online z manualnego testowania oprogramowania. Po mieściącu " zabawy" w testera zdecydowałam, że to zawód dla mnie, że chcę to robić. Zdałam egzamin ISTQB. Wtedy usłyszałam od kolzeżanki o Dare IT. 
 Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera była świetna, wiele dowiedziałam się o możliwościach nauki i szukania pracy jako tester, byłam zachwycona prezentacjami partnerów. Wtedy zdecydowałam, że chcę się uczyć dalej z Dare IT 😃*
 
-<summary>### Subtask 4 Scouts panel- expoatory testing
+### Subtask 4 Scouts panel- expoatory testing
 
 -"Scout panel" to aplikacja służąca dla zawodników piłki nożnej, która umożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników.
-- Funkcjonalności aplikacji:
+<details>
+   <summary>- Funkcjonalności aplikacji:</summary>
    - Logowanie do aplikacji
    - Zmiana języka wyświetlania strony
    - Dodawanie nowego gracza wypełniając formularz

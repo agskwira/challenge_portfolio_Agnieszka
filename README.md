@@ -15,33 +15,33 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
 "Scout panel" to aplikacja służąca dla zawodników piłki nożnej, która umożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników.
 </details>
 <details>
-   <summary>Funkcjonalności aplikacji "Scouts Panel"</summary>
-     * Logowanie do aplikacji
-     * Zmiana języka wyświetlania strony
-   - Dodawanie nowego gracza wypełniając formularz
-     W mojej opini opcja mało intuicyjna, przycisk "DODAJ GRACZA" znajduje się w panelu "Linki pomocnicze". W mojej opini dużo lepszym rozwiązanie byłoby dodanie tego          przycisku w panelu bocznym z prawej strony
-   - Dla kazdego zawodnika można dodać mecz w którym wziął/będzie brał udział za pomocą przycisku "Mecze">>> DODAJ MECZ
+<summary>Funkcjonalności aplikacji "Scouts Panel"</summary>
+ * Logowanie do aplikacji
+ * Zmiana języka wyświetlania strony
+ - Dodawanie nowego gracza wypełniając formularz
+    W mojej opini opcja mało intuicyjna, przycisk "DODAJ GRACZA" znajduje się w panelu "Linki pomocnicze". W mojej opini dużo lepszym rozwiązanie byłoby dodanie tego          przycisku w panelu bocznym z prawej strony
+ - Dla kazdego zawodnika można dodać mecz w którym wziął/będzie brał udział za pomocą przycisku "Mecze">>> DODAJ MECZ
      W mojej opinii mało intuicyjna opcja widoczna dopiero o dodaniu zawodnika
-   - Dla każdego zawodnika istnieje możliwośc stworzenia raportu za pomocą  przycisku "Raporty">>> DODAJ RAPORT
+ - Dla każdego zawodnika istnieje możliwośc stworzenia raportu za pomocą  przycisku "Raporty">>> DODAJ RAPORT
      W mojej opinii mało intuicyjna opcja widoczna dopiero o dodaniu zawodnika, chociaż istnieje przycisk "dodaj raport" nie można go dodać po wciśnięcu zmienia się na        przycisk "Dodaj mecz"
-   - Można wyświetlić listę graczy za pomocą przycisku "Gracze"
+ - Można wyświetlić listę graczy za pomocą przycisku "Gracze"
      Opcja intuicyjna , widoczna w panelu bocznym 
-   - istnieje możliwośc zmiany jezyka wyświetlania, dostępne języki : polski, angielski
+ - istnieje możliwośc zmiany jezyka wyświetlania, dostępne języki : polski, angielski
      Opcja intuicyjna , możliwośc przełączania języków za pomocą przycisku przełączania 
-   - Na liście mecze są możliwe do wykonania akcje t.j. edycja karty meczu, stworzenie raportu, rzpoczęcie meczu - opcje intuicyjne 
-   </details>
-   <details>
-   <summary> Znaezione błędy aplikacji</summary>
-    - mozlliwość dodania zawodnika, którego imie i nawisko zawodnika, zawierają liczby i znaki specjalne 
-    - możliwośc wpisania w pola zdobyte gole, stracone gole, oznaczające ilość  liter
-    - po wciśnięciu przyciski "+Dodaj raport" w panelu "Raporty" przycisk zmienia się na przycisk "+ Dodaj mecz" bez informacji 
-   </details>
-   <details>
-   <summary> Ogólna subiektywna :nauseated_face: opinia o aplikacji "Scouts Panel"</summary>
-    W mojej opini interfejs aplikacji mało intuicyjny oraz mało atrakcyjny, wręcz nudny. Na stronie aplikacji brak jest walidacji wielu pól.
-   Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałabym być uzytkownikem docelowym "Scouts Panel":wink:.
-   </details>
- ## Task 2 Przypadki testowe
+ - Na liście mecze są możliwe do wykonania akcje t.j. edycja karty meczu, stworzenie raportu, rzpoczęcie meczu - opcje intuicyjne 
+ </details>
+ <details>
+<summary> Znaezione błędy aplikacji</summary>
+  - mozlliwość dodania zawodnika, którego imie i nawisko zawodnika, zawierają liczby i znaki specjalne 
+  - możliwośc wpisania w pola zdobyte gole, stracone gole, oznaczające ilość  liter
+  - po wciśnięciu przyciski "+Dodaj raport" w panelu "Raporty" przycisk zmienia się na przycisk "+ Dodaj mecz" bez informacji 
+</details>
+<details>
+<summary> Ogólna subiektywna :nauseated_face: opinia o aplikacji "Scouts Panel"</summary>
+W mojej opini interfejs aplikacji mało intuicyjny oraz mało atrakcyjny, wręcz nudny. Na stronie aplikacji brak jest walidacji wielu pól.
+Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałabym być uzytkownikem docelowym "Scouts Panel":wink:.
+</details>
+## Task 2 Przypadki testowe
    
    ### Subtask 1 Pisanie przypadków testowych na podstawie User Story.
    

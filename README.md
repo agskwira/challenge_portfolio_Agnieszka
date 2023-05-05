@@ -82,6 +82,9 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
   <summary>Narzędzia do pisania przypadków testowych:hammer_and_wrench:</summary> 
   * TestLink https://testlink.org/
   * Azure DevOPS https://learn.microsoft.com/pl-pl/azure/devops/test/create-test-cases?view=azure-devops
-  
+ 
+ ## Task 3 Raportowanie błędów
+ 
+ ### Subtask 1 Utworzenie formatki do zgłaszania błędów systemu
    
    

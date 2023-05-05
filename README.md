@@ -41,6 +41,7 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
 W mojej opini interfejs aplikacji mało intuicyjny oraz mało atrakcyjny, wręcz nudny. Na stronie aplikacji brak jest walidacji wielu pól.
 Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałabym być uzytkownikem docelowym "Scouts Panel":wink:.
 </details>
+
 ## Task 2 Przypadki testowe
    
 ### Subtask 1 Pisanie przypadków testowych na podstawie User Story.

@@ -1,4 +1,4 @@
-## Task1 Exploratory testing
+## Task 1 Exploratory testing
 
 ### Subtask 1 Test result
 
@@ -8,7 +8,8 @@
 
 *Na zmianę ścieżki zawodowej zdecydowałam się około rok temu. Zaczełam czytać o zawodzie testera. Uczestniczyłam w kilku kursach online z manualnego testowania oprogramowania. Po mieściącu " zabawy" w testera zdecydowałam, że to zawód dla mnie, że chcę to robić. Zdałam egzamin ISTQB. Wtedy usłyszałam od kolzeżanki o Dare IT. 
 Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera była świetna, wiele dowiedziałam się o możliwościach nauki i szukania pracy jako tester, byłam zachwycona prezentacjami partnerów. Wtedy zdecydowałam, że chcę się uczyć dalej z Dare IT 😃*
-### Subtask 4 Scouts panel- expoatory testing
+
+<summary>### Subtask 4 Scouts panel- expoatory testing
 
 -"Scout panel" to aplikacja służąca dla zawodników piłki nożnej, która umożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników.
 - Funkcjonalności aplikacji:
@@ -32,7 +33,7 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
     - po wciśnięciu przyciski "+Dodaj raport" w panelu "Raporty" przycisk zmienia się na przycisk "+ Dodaj mecz" bez informacji 
    
    Podsumowując, w mojej opini interfejs aplikacji mało intuicyjny oraz mało atrakcyjny, wręcz nudny. Na stronie aplikacji brak jest walidacji wielu pól.
-   ## Task2 Przypadki testowe
+   ## Task 2 Przypadki testowe
    
    ### Subtask 1 Pisanie przypadków testowych na podstawie User Story.
    
@@ -43,3 +44,5 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
    https://docs.google.com/spreadsheets/d/1ktodWwi7WKhbJfeY0MSsycrN49G2QBi5VYoj_XrG70w/edit?usp=share_link
    
    ### Subtask 3 Po co piszemy test case’y?
+   
+   

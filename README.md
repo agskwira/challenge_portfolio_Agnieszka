@@ -11,11 +11,11 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
 
 ### Subtask 4 Scouts panel- expoatory testing
 <details>
-<summary> Do czgo służy aplikacja Scouts Panel </summary>
+<summary> Do czgo służy aplikacja "Scouts Panel" </summary>
 "Scout panel" to aplikacja służąca dla zawodników piłki nożnej, która umożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników.
 </details>
 <details>
-   <summary>Funkcjonalności aplikacji:</summary>
+   <summary>Funkcjonalności aplikacji "Scouts Panel":</summary>
    - Logowanie do aplikacji
    - Zmiana języka wyświetlania strony
    - Dodawanie nowego gracza wypełniając formularz
@@ -36,8 +36,10 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
     - możliwośc wpisania w pola zdobyte gole, stracone gole, oznaczające ilość  liter
     - po wciśnięciu przyciski "+Dodaj raport" w panelu "Raporty" przycisk zmienia się na przycisk "+ Dodaj mecz" bez informacji 
    </details>
-   
-   Podsumowując, w mojej opini interfejs aplikacji mało intuicyjny oraz mało atrakcyjny, wręcz nudny. Na stronie aplikacji brak jest walidacji wielu pól.
+   <details>
+   <summary> Ogólna subiektywna :nauseated_face: opinia o aplikacji "Scouts Panel"</summary>
+    W mojej opini interfejs aplikacji mało intuicyjny oraz mało atrakcyjny, wręcz nudny. Na stronie aplikacji brak jest walidacji wielu pól.
+   Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałabym być uzytkownikem docelowym "Scouts Panel":wink:.
    ## Task 2 Przypadki testowe
    
    ### Subtask 1 Pisanie przypadków testowych na podstawie User Story.
@@ -49,5 +51,8 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
    https://docs.google.com/spreadsheets/d/1ktodWwi7WKhbJfeY0MSsycrN49G2QBi5VYoj_XrG70w/edit?usp=share_link
    
    ### Subtask 3 Po co piszemy test case’y?
+   <details>
+   <summary> Co to jest przypadek testowy wg ISTQB  :woman_student:</summary>
+    Wg ISTQB **Przyoadek testowy** to zbiór danych wejściowych, wstępnych warunków wykonania, oczekiwanych rezultatów i końcowych warunków wykonania opracowany w określonym celu lub dla warunku    testowego, jak wykonanie pewnej ścieżki programu lub zweryfikowanie zgodności z konkretnym wymaganiem.
    
    

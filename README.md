@@ -53,6 +53,7 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
    
    ### Subtask 3 Po co piszemy test case’y?
    <details>
-   <summary> __Przyoadek testowy__ to zbiór danych wejściowych, wstępnych warunków wykonania, oczekiwanych rezultatów i końcowych warunków wykonania opracowany w określonym celu lub dla warunku    testowego, jak wykonanie pewnej ścieżki programu lub zweryfikowanie zgodności z konkretnym wymaganiem.
+   <summary>**Przyoadek testowy wg ISTQB** </summary>to zbiór danych wejściowych, wstępnych warunków wykonania, oczekiwanych rezultatów i końcowych warunków wykonania opracowany w określonym celu lub dla warunku    testowego, jak wykonanie pewnej ścieżki programu lub zweryfikowanie zgodności z konkretnym wymaganiem.
+   </details>
    
    

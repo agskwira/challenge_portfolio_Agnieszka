@@ -16,8 +16,8 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
 </details>
 <details>
    <summary>Funkcjonalności aplikacji "Scouts Panel"</summary>
-   - Logowanie do aplikacji
-   - Zmiana języka wyświetlania strony
+     * Logowanie do aplikacji
+     * Zmiana języka wyświetlania strony
    - Dodawanie nowego gracza wypełniając formularz
      W mojej opini opcja mało intuicyjna, przycisk "DODAJ GRACZA" znajduje się w panelu "Linki pomocnicze". W mojej opini dużo lepszym rozwiązanie byłoby dodanie tego          przycisku w panelu bocznym z prawej strony
    - Dla kazdego zawodnika można dodać mecz w którym wziął/będzie brał udział za pomocą przycisku "Mecze">>> DODAJ MECZ
@@ -41,7 +41,7 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
     W mojej opini interfejs aplikacji mało intuicyjny oraz mało atrakcyjny, wręcz nudny. Na stronie aplikacji brak jest walidacji wielu pól.
    Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałabym być uzytkownikem docelowym "Scouts Panel":wink:.
    </details>
-   ## Task 2 Przypadki testowe
+ ## Task 2 Przypadki testowe
    
    ### Subtask 1 Pisanie przypadków testowych na podstawie User Story.
    

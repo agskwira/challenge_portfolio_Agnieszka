@@ -43,17 +43,17 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
 </details>
 ## Task 2 Przypadki testowe
    
-   ### Subtask 1 Pisanie przypadków testowych na podstawie User Story.
+### Subtask 1 Pisanie przypadków testowych na podstawie User Story.
    
-   https://docs.google.com/spreadsheets/d/1BS9FQMi4cMR6nWRtIOf_vz-EfgEsHABfbocw8Z0jvYM/edit?usp=share_link
+https://docs.google.com/spreadsheets/d/1BS9FQMi4cMR6nWRtIOf_vz-EfgEsHABfbocw8Z0jvYM/edit?usp=share_link
    
-   ### Subtask 2 Pisanie przypadków testowych na podstawie “własnych doświadczeń.
+### Subtask 2 Pisanie przypadków testowych na podstawie “własnych doświadczeń.
    
    https://docs.google.com/spreadsheets/d/1ktodWwi7WKhbJfeY0MSsycrN49G2QBi5VYoj_XrG70w/edit?usp=share_link
    
-   ### Subtask 3 Po co piszemy test case’y?
-   <details>
-   <summary>Przyoadek testowy wg ISTQB :woman_student:</summary>to zbiór danych wejściowych, wstępnych warunków wykonania, oczekiwanych rezultatów i końcowych warunków wykonania opracowany w określonym celu lub dla warunku    testowego, jak wykonanie pewnej ścieżki programu lub zweryfikowanie zgodności z konkretnym wymaganiem.
-   </details>
+### Subtask 3 Po co piszemy test case’y?
+<details>
+<summary>Przyoadek testowy wg ISTQB :woman_student:</summary>to zbiór danych wejściowych, wstępnych warunków wykonania, oczekiwanych rezultatów i końcowych warunków wykonania opracowany w określonym celu lub dla warunku    testowego, jak wykonanie pewnej ścieżki programu lub zweryfikowanie zgodności z konkretnym wymaganiem.
+</details>
    
    

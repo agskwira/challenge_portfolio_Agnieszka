@@ -64,7 +64,7 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
    
 ### Subtask 3 Po co piszemy test case’y?
 <details>
-<summary>Przyoadek testowy wg ISTQB :woman_student:</summary>
+<summary>Przypadek testowy wg ISTQB :woman_student:</summary>
  to zbiór danych wejściowych, wstępnych warunków wykonania, oczekiwanych rezultatów i końcowych warunków wykonania opracowany w określonym celu lub dla warunku    testowego, jak wykonanie pewnej ścieżki programu lub zweryfikowanie zgodności z konkretnym wymaganiem.
 </details>
 
@@ -87,5 +87,6 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
  ## Task 3 Raportowanie błędów
  
  ### Subtask 1 Utworzenie formatki do zgłaszania błędów systemu
+ :link:https://docs.google.com/spreadsheets/d/1BbqoCe257RGy4SZTcFVb47UgAF1IMKgWGgDmEg4iTbI/edit?usp=sharing
    
    

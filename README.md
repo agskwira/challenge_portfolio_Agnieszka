@@ -77,7 +77,7 @@ https://docs.google.com/spreadsheets/d/1BS9FQMi4cMR6nWRtIOf_vz-EfgEsHABfbocw8Z0j
   * Przypadki testowe dają możliwość konroli nad zmianami w konkretnych funkcjonalnościach aplikacji 
   * Przypadki testowe pomagają przygotowac dane testowe
   * Przypadki testowe opisują wizję klienta na temat działania aplikacji
- 
+</details> 
  <details>
   <summary>Narzędzia do pisania przypadków testowych:hammer_and_wrench:</summary> 
   * TestLink https://testlink.org/

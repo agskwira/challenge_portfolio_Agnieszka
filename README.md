@@ -22,20 +22,27 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
  * Zmiana języka wyświetlania strony
  - Dodawanie nowego gracza wypełniając formularz
     W mojej opini opcja mało intuicyjna, przycisk "DODAJ GRACZA" znajduje się w panelu "Linki pomocnicze". W mojej opini dużo lepszym rozwiązanie byłoby dodanie tego          przycisku w panelu bocznym z prawej strony
+ 
  - Dla kazdego zawodnika można dodać mecz w którym wziął/będzie brał udział za pomocą przycisku "Mecze">>> DODAJ MECZ
      W mojej opinii mało intuicyjna opcja widoczna dopiero o dodaniu zawodnika
+ 
  - Dla każdego zawodnika istnieje możliwośc stworzenia raportu za pomocą  przycisku "Raporty">>> DODAJ RAPORT
      W mojej opinii mało intuicyjna opcja widoczna dopiero o dodaniu zawodnika, chociaż istnieje przycisk "dodaj raport" nie można go dodać po wciśnięcu zmienia się na        przycisk "Dodaj mecz"
+ 
  - Można wyświetlić listę graczy za pomocą przycisku "Gracze"
      Opcja intuicyjna , widoczna w panelu bocznym 
+ 
  - istnieje możliwośc zmiany jezyka wyświetlania, dostępne języki : polski, angielski
      Opcja intuicyjna , możliwośc przełączania języków za pomocą przycisku przełączania 
  - Na liście mecze są możliwe do wykonania akcje t.j. edycja karty meczu, stworzenie raportu, rzpoczęcie meczu - opcje intuicyjne 
  </details>
  <details>
 <summary> Znaezione błędy aplikacji</summary>
+ 
   - mozlliwość dodania zawodnika, którego imie i nawisko zawodnika, zawierają liczby i znaki specjalne 
+ 
   - możliwośc wpisania w pola zdobyte gole, stracone gole, oznaczające ilość  liter
+ 
   - po wciśnięciu przyciski "+Dodaj raport" w panelu "Raporty" przycisk zmienia się na przycisk "+ Dodaj mecz" bez informacji 
 </details>
 <details>

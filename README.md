@@ -6,7 +6,7 @@
 
 ### Subtask 3 Dlaczego zdecydował_ś się na udział w challenge portfolio?
 
-*Na zmianę ścieżki zawodowej zdecydowałam się około rok temu. Zaczełam czytać o zawodzie testera. Uczestniczyłam w kilku kursach online z manualnego testowania oprogramowania. Po mieściącu " zabawy" w testera zdecydowałam, że to zawód dla mnie, że chcę to robić. Zdałam egzamin ISTQB. Wtedy usłyszałam od kolzeżanki o Dare IT. 
+* Na zmianę ścieżki zawodowej zdecydowałam się około rok temu. Zaczełam czytać o zawodzie testera. Uczestniczyłam w kilku kursach online z manualnego testowania oprogramowania. Po mieściącu " zabawy" w testera zdecydowałam, że to zawód dla mnie, że chcę to robić. Zdałam egzamin ISTQB. Wtedy usłyszałam od kolzeżanki o Dare IT. 
 Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera była świetna, wiele dowiedziałam się o możliwościach nauki i szukania pracy jako tester, byłam zachwycona prezentacjami partnerów. Wtedy zdecydowałam, że chcę się uczyć dalej z Dare IT 😃*
 
 ### Subtask 4 Scouts panel- expoatory testing
@@ -48,7 +48,7 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
 </details>
 <details>
 <summary> Ogólna subiektywna :nauseated_face: opinia o aplikacji "Scouts Panel"</summary>
-W mojej opini interfejs aplikacji mało intuicyjny oraz mało atrakcyjny, wręcz nudny. Na stronie aplikacji brak jest walidacji wielu pól.
+ W mojej opini interfejs aplikacji mało intuicyjny oraz mało atrakcyjny, wręcz nudny. Na stronie aplikacji brak jest walidacji wielu pól.
 Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałabym być uzytkownikem docelowym "Scouts Panel":wink:.
 </details>
 
@@ -64,7 +64,8 @@ https://docs.google.com/spreadsheets/d/1BS9FQMi4cMR6nWRtIOf_vz-EfgEsHABfbocw8Z0j
    
 ### Subtask 3 Po co piszemy test case’y?
 <details>
-<summary>Przyoadek testowy wg ISTQB :woman_student:</summary>to zbiór danych wejściowych, wstępnych warunków wykonania, oczekiwanych rezultatów i końcowych warunków wykonania opracowany w określonym celu lub dla warunku    testowego, jak wykonanie pewnej ścieżki programu lub zweryfikowanie zgodności z konkretnym wymaganiem.
+<summary>Przyoadek testowy wg ISTQB :woman_student:</summary>
+ to zbiór danych wejściowych, wstępnych warunków wykonania, oczekiwanych rezultatów i końcowych warunków wykonania opracowany w określonym celu lub dla warunku    testowego, jak wykonanie pewnej ścieżki programu lub zweryfikowanie zgodności z konkretnym wymaganiem.
 </details>
 
 <details>
@@ -76,6 +77,11 @@ https://docs.google.com/spreadsheets/d/1BS9FQMi4cMR6nWRtIOf_vz-EfgEsHABfbocw8Z0j
   * Przypadki testowe dają możliwość konroli nad zmianami w konkretnych funkcjonalnościach aplikacji 
   * Przypadki testowe pomagają przygotowac dane testowe
   * Przypadki testowe opisują wizję klienta na temat działania aplikacji
+ 
+ <details>
+  <summary>Narzędzia do pisania przypadków testowych:hammer_and_wrench:</summary> 
+  * TestLink https://testlink.org/
+  * Azure DevOPS https://learn.microsoft.com/pl-pl/azure/devops/test/create-test-cases?view=azure-devops
   
    
    

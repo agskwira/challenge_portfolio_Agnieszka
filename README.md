@@ -1,8 +1,10 @@
 ## Task 1 Exploratory testing
 
 ### Subtask 1 Test result
-
+<details> 
+ <summary> Test result ❓	:question: </summary>
 *9/10* 	:sweat_smile:
+</details>
 
 ### Subtask 3 Dlaczego zdecydował_ś się na udział w challenge portfolio?
 

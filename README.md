@@ -6,7 +6,7 @@
            9/10 	:sweat_smile:
 </details>
 
-### Subtask 3 Dlaczego zdecydował_ś się na udział w challenge portfolio?
+### Subtask 3 Dlaczego zdecydowałam się na udział w challenge portfolio?
 
 Na zmianę ścieżki zawodowej zdecydowałam się około rok temu. Zaczełam czytać o zawodzie testera. Uczestniczyłam w kilku kursach online z manualnego testowania oprogramowania. Po mieściącu " zabawy" w testera zdecydowałam, że to zawód dla mnie, że chcę to robić. Zdałam egzamin ISTQB. Wtedy usłyszałam od kolzeżanki o Dare IT. 
 Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera była świetna, wiele dowiedziałam się o możliwościach nauki i szukania pracy jako tester, byłam zachwycona prezentacjami partnerów. Wtedy zdecydowałam, że chcę się uczyć dalej z Dare IT 😃
@@ -98,7 +98,7 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
  
  ### Subtask 3 - Raport z wykonanych testów
  
- :link: 
+ :link: https://docs.google.com/spreadsheets/d/1IC2BK474OZWyRk0eEsQSZXbyX7HKRuYfet6YZX_M4mY/edit?usp=share_link
  
  
    

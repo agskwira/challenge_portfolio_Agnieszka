@@ -9,7 +9,7 @@
 * Na zmianę ścieżki zawodowej zdecydowałam się około rok temu. Zaczełam czytać o zawodzie testera. Uczestniczyłam w kilku kursach online z manualnego testowania oprogramowania. Po mieściącu " zabawy" w testera zdecydowałam, że to zawód dla mnie, że chcę to robić. Zdałam egzamin ISTQB. Wtedy usłyszałam od kolzeżanki o Dare IT. 
 Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera była świetna, wiele dowiedziałam się o możliwościach nauki i szukania pracy jako tester, byłam zachwycona prezentacjami partnerów. Wtedy zdecydowałam, że chcę się uczyć dalej z Dare IT 😃
 
-### Subtask 4 Scouts panel- expoatory testing
+### Subtask 4 :soccer:Scouts panel- expoatory testing:soccer:
 <details>
 <summary> Do czgo służy aplikacja "Scouts Panel" :bouncing_ball_person: </summary>
 "Scout panel" to aplikacja służąca dla zawodników piłki nożnej, która umożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników.
@@ -87,6 +87,17 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
  ## Task 3 Raportowanie błędów
  
  ### Subtask 1 Utworzenie formatki do zgłaszania błędów systemu
+ 
  :link:https://docs.google.com/spreadsheets/d/1BbqoCe257RGy4SZTcFVb47UgAF1IMKgWGgDmEg4iTbI/edit?usp=sharing
+ 
+ ### Subtask 2 - Testowanie według planów testów i raportowanie błędów
+ 
+ :link: https://docs.google.com/spreadsheets/d/1Rvqpqf-KdS0s30Ftb4Haa-QBv1RLKWuH-Nt10hQvDTQ/edit?usp=share_link
+ 
+ ### Subtask 3 - Raport z wykonanych testów
+ 
+ :link: 
+ 
+ 
    
    

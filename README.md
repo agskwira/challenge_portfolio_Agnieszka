@@ -2,7 +2,7 @@
 
 ### Subtask 1 Test result
 <details> 
- <summary> ❓	:question: Test result ❓	</summary>
+ <summary> ❓Test result ❓	</summary>
 9/10 	:sweat_smile:
 </details>
 

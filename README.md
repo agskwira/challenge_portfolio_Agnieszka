@@ -102,6 +102,8 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
  
  ## Task 4 Testowanie aplikacji mobilnych
  
+ ### Subtask 1 Utworzenie formatki do zgłaszania błędów systemu
+ 
   :link:[Mobile aplication bug report model](https://docs.google.com/spreadsheets/d/1NfH42HFPSWqqIKs4Aa1FclGJ-584u-LFOCzniWSXEX4/edit?usp=share_link)
  
    

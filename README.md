@@ -118,5 +118,7 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
  
  :link:[Bug report](https://docs.google.com/spreadsheets/d/1CEJ4P2UkTNnLSNW4GrzOVeDnzjqWMgXVwgSVwRIV--E/edit?usp=share_link)
  
+### Subtask 3 Do czego służy ta aplikacja?
+ 
    
    

@@ -145,11 +145,21 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
 * Moim zdni plikacja jest przyjazna dla użytkowanika . Szybko i łatwo się zniej korzysta. Jednak moja opinia jest pisana z perspektywy długoletniego użytkownika tej alikacji. Jestem już nauczona "Schematu " poruszania się w OLX slaego opinia nowego użytkownika, który dopiero się jej uczy , może być inna.
 </details>
 <details>
-<summary> ❓Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? (Żeby nie było: nie jest to aplikacja przy której pracuję, takie pytania pojawiają się na rozmowach rekrutacyjnych dlatego dobrze jest to przećwiczyć :D )</summary>
+ <summary> ❓Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?</summary>
+ W aplikacji OLX brakuje mi:
+ * Możliwości poproszenia o alternatywną wysyłkę- nie przez OLX. Funkcjonalności, która będzie dawała mozliwośc dodania przesyłki od innego przewoźnika niż oferowane przez OLX i możliwości jej kontrolowania/śledzenia 
+ * Przycisku/funkcjonalności dającej możiwość zaproponowania ceny ,
+ * Możliwości tworzenia zestawów z produktów oferowanych przez jednego użytkowanika i otrzymywania dzięki temu zniżek
+
  
  </details>
  <details>
  <summary>❓Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej? </summary>
+ Różnice:
+ * Testowanie aplikacji mobilnej jest mniej wygodne ze względu na wielkość ekranu 
+ * Jest wiecej przycisków - więcej rzeczy do przetestowania 
+ * Bardzo ważne jest zwrócenie uwagi na lokalizację przycisków/nawigacji aplikacji żeby mozna z niej było szybko i wygodnie korzystać
+ * Mnogość urządzeń mobilnych ich wielości ekranów sprawia , trudnośc w wyborze urzadzeń na których powinniśmy przetestować aplikację 
  </details>
 
   

@@ -112,8 +112,10 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
 
 <details>
  <sumarry> :woman_teacher: Baza wiedzy</summary>
-  * [Klasy równoważnosci](https://tester.milenabednarczyk.pl/podzial-na-klasy-rownowaznosci-blackbox/)
-  * [Analiza wartości brzegowej](https://tester.milenabednarczyk.pl/analiza-wartosci-brzegowych-blackbox/)
+ 
+            * [Klasy równoważnosci](https://tester.milenabednarczyk.pl/podzial-na-klasy-rownowaznosci-blackbox/)
+ 
+            * [Analiza wartości brzegowej](https://tester.milenabednarczyk.pl/analiza-wartosci-brzegowych-blackbox/)
  </details>
  
    

@@ -109,13 +109,11 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
   :link:[Mobile aplication bug report model](https://docs.google.com/spreadsheets/d/1NfH42HFPSWqqIKs4Aa1FclGJ-584u-LFOCzniWSXEX4/edit?usp=share_link)
   
 ###  Subtask 2  Testowanie eksploracyjne i raportowanie błędów
-
 <details>
- <sumarry> :woman_teacher: Baza wiedzy</summary>
+<sumarry> :woman_teacher: Baza wiedzy</summary>
  
-            * [Klasy równoważnosci](https://tester.milenabednarczyk.pl/podzial-na-klasy-rownowaznosci-blackbox/)
- 
-            * [Analiza wartości brzegowej](https://tester.milenabednarczyk.pl/analiza-wartosci-brzegowych-blackbox/)
+ * [Klasy równoważnosci](https://tester.milenabednarczyk.pl/podzial-na-klasy-rownowaznosci-blackbox/)
+ * [Analiza wartości brzegowej](https://tester.milenabednarczyk.pl/analiza-wartosci-brzegowych-blackbox/)
  </details>
  
    

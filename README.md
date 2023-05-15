@@ -147,6 +147,7 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
 <details>
  <summary> ❓Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?</summary>
  
+ 
  W aplikacji OLX brakuje mi:
  
   * Możliwości poproszenia o alternatywną wysyłkę- nie przez OLX. Funkcjonalności, która będzie dawała mozliwośc dodania przesyłki od innego przewoźnika niż oferowane przez OLX i możliwości jej kontrolowania/śledzenia 
@@ -158,7 +159,9 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
  <details>
  <summary>❓Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej? </summary>
  
+ 
  Różnice:
+ 
   * Testowanie aplikacji mobilnej jest mniej wygodne ze względu na wielkość ekranu 
   * Jest wiecej przycisków - więcej rzeczy do przetestowania 
   * Bardzo ważne jest zwrócenie uwagi na lokalizację przycisków/nawigacji aplikacji żeby mozna z niej było szybko i wygodnie korzystać

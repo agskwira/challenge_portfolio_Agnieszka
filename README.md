@@ -121,15 +121,15 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
 ### Subtask 3 Do czego służy ta aplikacja?
 <details>
 <summary>❓Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?</summary>
-Aplikacja służy do
- *  Wystawiania ogłoszeń o:
-   * Sprzedaży przedmiotów używanych 
-   * Chęci oddania przedmiotów używanych
-   * Świadczeniu usług 
-   * Poszukiwaniu pacownika
-   * Poszukiwaniu pracy 
-   * Oferowanej pomocy dla osób z Ukrainy
- * Zakupu ofrerowanych dóbr i usług za pośrednictwem aplikacji bądż bezpośrednio przez spotkanie umówione za pośrednictwem aplikacji ze sprzedającym 
+ Aplikacja służy do
+  *  Wystawiania ogłoszeń o:
+    * Sprzedaży przedmiotów używanych 
+    * Chęci oddania przedmiotów używanych
+    * Świadczeniu usług 
+    * Poszukiwaniu pacownika
+    * Poszukiwaniu pracy 
+    * Oferowanej pomocy dla osób z Ukrainy
+  * Zakupu ofrerowanych dóbr i usług za pośrednictwem aplikacji bądż bezpośrednio przez spotkanie umówione za pośrednictwem aplikacji ze sprzedającym 
  </details>
  <details>
  <summary>❓Kto ma być użytkownikiem końcowym aplikacji?</summary>

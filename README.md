@@ -58,11 +58,11 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
    
 ### Subtask 1 Pisanie przypadków testowych na podstawie User Story.
    
-:link:https://docs.google.com/spreadsheets/d/1BS9FQMi4cMR6nWRtIOf_vz-EfgEsHABfbocw8Z0jvYM/edit?usp=share_link
+:link:[Przypadki testowe](https://docs.google.com/spreadsheets/d/1BS9FQMi4cMR6nWRtIOf_vz-EfgEsHABfbocw8Z0jvYM/edit?usp=share_link)
    
 ### Subtask 2 Pisanie przypadków testowych na podstawie “własnych doświadczeń.
    
-:link:https://docs.google.com/spreadsheets/d/1ktodWwi7WKhbJfeY0MSsycrN49G2QBi5VYoj_XrG70w/edit?usp=share_link
+:link:[Przypadki testowe](https://docs.google.com/spreadsheets/d/1ktodWwi7WKhbJfeY0MSsycrN49G2QBi5VYoj_XrG70w/edit?usp=share_link)
    
 ### Subtask 3 Po co piszemy test case’y?
 <details>
@@ -82,23 +82,23 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
 </details> 
  <details>
   <summary>Narzędzia do pisania przypadków testowych:hammer_and_wrench:</summary> 
-  * TestLink https://testlink.org/
-  * Azure DevOPS https://learn.microsoft.com/pl-pl/azure/devops/test/create-test-cases?view=azure-devops
+  * [TestLink](https://testlink.org/)
+  * [Azure DevOPS](https://learn.microsoft.com/pl-pl/azure/devops/test/create-test-cases?view=azure-devops)
  </details>
  
  ## Task 3 Raportowanie błędów
  
  ### Subtask 1 Utworzenie formatki do zgłaszania błędów systemu
  
- :link:https://docs.google.com/spreadsheets/d/1BbqoCe257RGy4SZTcFVb47UgAF1IMKgWGgDmEg4iTbI/edit?usp=sharing
+ :link:[Web aplication bug report model](https://docs.google.com/spreadsheets/d/1BbqoCe257RGy4SZTcFVb47UgAF1IMKgWGgDmEg4iTbI/edit?usp=sharing)
  
  ### Subtask 2 - Testowanie według planów testów i raportowanie błędów
  
- :link: https://docs.google.com/spreadsheets/d/1Rvqpqf-KdS0s30Ftb4Haa-QBv1RLKWuH-Nt10hQvDTQ/edit?usp=share_link
+ :link:[Bug reports](https://docs.google.com/spreadsheets/d/1Rvqpqf-KdS0s30Ftb4Haa-QBv1RLKWuH-Nt10hQvDTQ/edit?usp=share_link)
  
  ### Subtask 3 - Raport z wykonanych testów
  
- :link: https://docs.google.com/spreadsheets/d/1IC2BK474OZWyRk0eEsQSZXbyX7HKRuYfet6YZX_M4mY/edit?usp=share_link
+ :link:[Tests report](https://docs.google.com/spreadsheets/d/1IC2BK474OZWyRk0eEsQSZXbyX7HKRuYfet6YZX_M4mY/edit?usp=share_link)
  
  
    

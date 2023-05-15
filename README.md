@@ -119,6 +119,27 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
  :link:[Bug report](https://docs.google.com/spreadsheets/d/1CEJ4P2UkTNnLSNW4GrzOVeDnzjqWMgXVwgSVwRIV--E/edit?usp=share_link)
  
 ### Subtask 3 Do czego służy ta aplikacja?
+<details>
+<summary>❓Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?</summary>
+Aplikacja służy do
+ *  Wystawiania ogłoszeń o:
+   * Sprzedaży przedmiotów używanych 
+   * Chęci oddania przedmiotów używanych
+   * Świadczeniu usług 
+   * Poszukiwaniu pacownika
+   * Poszukiwaniu pracy 
+   * Oferowanej pomocy dla osób z Ukrainy
+ * Zakupu ofrerowanych dóbr i usług za pośrednictwem aplikacji bądż bezpośrednio przez spotkanie umówione za pośrednictwem aplikacji ze sprzedającym 
+ </details>
+ <details>
+ <summary>❓Kto ma być użytkownikiem końcowym aplikacji?</summary>
+ Użytkownikiem końcowym aplikacji ma być oferujący bądź odbiorca - kupujący oferowanych dóbr i usług
+ </details>
+ <details>
+ <summary> ❓Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. Poczytaj na ten temat w internecie- co to znaczy, że aplikacja jest przyjazna dla użytkownika)</summary>
+  
+ 
+ 
  
    
    

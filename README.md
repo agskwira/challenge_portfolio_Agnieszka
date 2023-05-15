@@ -11,9 +11,9 @@
 Na zmianę ścieżki zawodowej zdecydowałam się około rok temu. Zaczełam czytać o zawodzie testera. Uczestniczyłam w kilku kursach online z manualnego testowania oprogramowania. Po mieściącu " zabawy" w testera zdecydowałam, że to zawód dla mnie, że chcę to robić. Zdałam egzamin ISTQB. Wtedy usłyszałam od kolzeżanki o Dare IT. 
 Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera była świetna, wiele dowiedziałam się o możliwościach nauki i szukania pracy jako tester, byłam zachwycona prezentacjami partnerów. Wtedy zdecydowałam, że chcę się uczyć dalej z Dare IT 😃
 
-### Subtask 4 :soccer:Scouts panel- expoatory testing:soccer:
+### Subtask 4 :soccer: Scouts panel- exploratory testing:soccer:
 <details>
-<summary> Do czgo służy aplikacja "Scouts Panel" :bouncing_ball_person: </summary>
+<summary> Do czego służy aplikacja "Scouts Panel" :bouncing_ball_person: </summary>
 "Scout panel" to aplikacja służąca dla zawodników piłki nożnej, która umożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników.
 </details>
 <details>
@@ -110,7 +110,7 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
   
 ###  Subtask 2  Testowanie eksploracyjne i raportowanie błędów
 <details>
-<sumarry> :woman_teacher: Baza wiedzy</summary>
+ <sumarry> :woman_teacher: Baza wiedzy </summary>
  
  * [Klasy równoważnosci](https://tester.milenabednarczyk.pl/podzial-na-klasy-rownowaznosci-blackbox/)
  * [Analiza wartości brzegowej](https://tester.milenabednarczyk.pl/analiza-wartosci-brzegowych-blackbox/)

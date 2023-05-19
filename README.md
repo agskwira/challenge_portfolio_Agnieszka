@@ -182,7 +182,21 @@ to zorganizowany zbiór usystematyzowanych informacji, czyli danych, zwykle prze
 Dane w najpopularniejszych typach baz danych stosowanych obecnie są zwykle umieszczone w wierszach i kolumnach szeregu tabel, co usprawnia przetwarzanie danych i tworzenie dotyczących ich zapytań. Dzięki temu dostęp do danych, zarządzanie i sterowanie nimi oraz ich modyfikowanie, aktualizowanie i organizowanie jest łatwiejsze. Większość baz danych wykorzystuje do zapisywania danych i tworzenia dotyczących ich zapytań język SQL (Structured Query Language, strukturalny język zapytań).
  </details>
  
-### Subtask 1 - Krótki kurs podstaw SQL
+### Subtask 1 - Podstawy języka SQL
+<details>
+<summary> SELECT </summary> 
+* SELECT * FROM tbl
+wybiera wszystkie wiersze i kolumny z tabeli tbl
+* SELECT c1, c2 FROM tbl
+ wybiera kolumny c1, c2 i wszystkie wiersze z tabeli tbl
+* SELECT c1, c2 FROM tbl
+ WHERE *warunek*
+ ORDER BY c1 ASC, c2 DESC
+ wybiera rekordy z kolumn c1 i c2 zgodnie z warunkiem
+ i porządkuje rekordy zgodnie z kolumną c1 majejąco i kolumną c2 rosnąco
+ 
+ 
+ 
 
   
  

@@ -184,7 +184,7 @@ Dane w najpopularniejszych typach baz danych stosowanych obecnie są zwykle umie
  
 ### Subtask 1 - Podstawy języka SQL
 <details>
-<summary> __SELECT__ </summary> 
+<summary> SELECT</summary> 
  
 * SELECT * FROM tbl
  
@@ -205,7 +205,7 @@ wybiera wszystkie wiersze i kolumny z tabeli tbl
  wybiera niepowtarzające się wiersze z kolumn c1 i c2 z tabeli tbl
 <details>
  
-<summary> **GROUP BY, HAVING** </summary> 
+<summary> GROUP BY, HAVING </summary> 
  
  *  SELECT  c1, aggregate(expr)
  FROM tbl
@@ -221,6 +221,47 @@ wybiera wszystkie wiersze i kolumny z tabeli tbl
  Wybiera kolumny c1 i c2 jako tymczasowa nazwa kolumny z wynikiem funkcji aggregate(expr)
  Filtruje grupy utworzone naodstawie kolumny c1 z wartościami c2 większymi od V
  </details>
+ 
+ <details>
+ 
+<summary> Funkcje  COUNT(), AVG() and SUM(), MAX(), MIN()</summary> 
+ 
+* COUNT()
+SELECT COUNT(c1)
+FROM tbl
+WHERE x;
+  
+liczy rekordy z kolumny c1 dal których jest spełniony warunek x
+  
+* AVG()
+SELECT AVG(c1)
+FROM tbl
+WHERE x;
+  
+liczy średnią dla rekordów z kolumny c1 dla których spełniony jest warunek x
+  
+* SUM()
+SELECT SUM(c1)
+FROM tbl
+WHERE x;
+
+liczy sumę rekrdów c1 z tabeli tbl dla których sełniony jest warunek x
+  
+* MAX()
+SELECT MIN(c1)
+FROM tbl
+WHERE x;
+  
+wybiera wartosć maksymalną z rekordów z kolumny c1 dla tabeli tbl dla których spełniony jest warunek x
+
+  
+* MIN()
+SELECT MIN(c1)
+FROM tbl
+WHERE x;
+
+wybiera wartosć minimalną z rekordów z kolumny c1 dla tabeli tbl dla których spełniony jest warunek x
+
  
  
  

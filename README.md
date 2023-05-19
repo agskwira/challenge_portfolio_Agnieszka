@@ -203,8 +203,8 @@ wybiera wszystkie wiersze i kolumny z tabeli tbl
  * SELECT DISTINCT c1, c2
 
  wybiera niepowtarzające się wiersze z kolumn c1 i c2 z tabeli tbl
+</details>
 <details>
- 
 <summary> GROUP BY, HAVING </summary> 
  
  *  SELECT  c1, aggregate(expr)
@@ -222,9 +222,10 @@ wybiera wszystkie wiersze i kolumny z tabeli tbl
  Filtruje grupy utworzone naodstawie kolumny c1 z wartościami c2 większymi od V
  </details>
  
- <details>
+</details>
+<details>
  
-<summary> Funkcje  COUNT(), AVG() and SUM(), MAX(), MIN()</summary> 
+<summary>  COUNT(), AVG() and SUM(), MAX(), MIN()</summary> 
  
 * COUNT()
 SELECT COUNT(c1)

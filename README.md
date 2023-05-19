@@ -205,7 +205,7 @@ wybiera wszystkie wiersze i kolumny z tabeli tbl
  wybiera niepowtarzające się wiersze z kolumn c1 i c2 z tabeli tbl
 <details>
  
-<summary> __GROUP BY, HAVING__ </summary> 
+<summary> **GROUP BY, HAVING** </summary> 
  
  *  SELECT  c1, aggregate(expr)
  FROM tbl

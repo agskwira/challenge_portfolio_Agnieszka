@@ -171,11 +171,12 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
  
 ## Task 5  SQL part 1
 <details>
-<summary> ❓Strukturalny język zapytań (SQL)</summary>
+<summary>:woman_teacher:Strukturalny język zapytań (SQL)</summary>
 to język deklaratywny stworzony przez firmę IBM w latach 70-tych. Służy on do tworzenia, modyfikowania, jak i wyciągania danych z bazy. Język ten cieszy się dużą popularnością choćby dlatego, że jest interpretowany przez systemy baz danych np.: MySQL czy też Microsoft SQL Server. Jednak nie należy on do bezpiecznych języków. Źle zabezpieczona baza danych może zostać w każdej chwili zaatakowana, w wyniku czego możemy utracić dane..
 </details>
+
 <details>
-<summary> ❓Baza danych</smmary> 
+<summary> :woman_teacher:Baza danych</summary> 
 to zorganizowany zbiór usystematyzowanych informacji, czyli danych, zwykle przechowywany w systemie komputerowym w formie elektronicznej. Bazą danych steruje zwykle system zarządzania bazami danych (DBMS). Dane i system DBMS oraz powiązane z nimi aplikacje razem tworzą system bazodanowy, często nazywany w skrócie bazą danych.
 
 Dane w najpopularniejszych typach baz danych stosowanych obecnie są zwykle umieszczone w wierszach i kolumnach szeregu tabel, co usprawnia przetwarzanie danych i tworzenie dotyczących ich zapytań. Dzięki temu dostęp do danych, zarządzanie i sterowanie nimi oraz ich modyfikowanie, aktualizowanie i organizowanie jest łatwiejsze. Większość baz danych wykorzystuje do zapisywania danych i tworzenia dotyczących ich zapytań język SQL (Structured Query Language, strukturalny język zapytań).

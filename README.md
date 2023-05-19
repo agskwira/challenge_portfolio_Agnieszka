@@ -263,6 +263,11 @@ WHERE x;
 
 wybiera wartosć minimalną z rekordów z kolumny c1 dla tabeli tbl dla których spełniony jest warunek x
 
+</details>
+<details>
+ 
+<summary>BETWEEN, IN, NOT IN, LIKE </summary> 
+
  
  
  

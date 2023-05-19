@@ -187,12 +187,15 @@ Dane w najpopularniejszych typach baz danych stosowanych obecnie są zwykle umie
 <summary> SELECT </summary> 
  
 * SELECT * FROM tbl
+ 
 wybiera wszystkie wiersze i kolumny z tabeli tbl
 * SELECT c1, c2 FROM tbl
+ 
  wybiera kolumny c1, c2 i wszystkie wiersze z tabeli tbl
 * SELECT c1, c2 FROM tbl
  WHERE *warunek*
  ORDER BY c1 ASC, c2 DESC
+ 
  wybiera rekordy z kolumn c1 i c2 zgodnie z warunkiem
  i porządkuje rekordy zgodnie z kolumną c1 majejąco i kolumną c2 rosnąco
  

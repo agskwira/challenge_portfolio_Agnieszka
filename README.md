@@ -181,6 +181,7 @@ to zorganizowany zbiór usystematyzowanych informacji, czyli danych, zwykle prze
 
 Dane w najpopularniejszych typach baz danych stosowanych obecnie są zwykle umieszczone w wierszach i kolumnach szeregu tabel, co usprawnia przetwarzanie danych i tworzenie dotyczących ich zapytań. Dzięki temu dostęp do danych, zarządzanie i sterowanie nimi oraz ich modyfikowanie, aktualizowanie i organizowanie jest łatwiejsze. Większość baz danych wykorzystuje do zapisywania danych i tworzenia dotyczących ich zapytań język SQL (Structured Query Language, strukturalny język zapytań).
  </details>
+ 
 ### Subtask 1 - Krótki kurs podstaw SQL
 
   

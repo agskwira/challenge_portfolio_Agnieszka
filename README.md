@@ -185,7 +185,7 @@ Dane w najpopularniejszych typach baz danych stosowanych obecnie są zwykle umie
 ### Subtask 1 - Podstawy języka SQL
 <details>
 <summary> SELECT </summary> 
- 
+* 
 * SELECT * FROM tbl
  
 wybiera wszystkie wiersze i kolumny z tabeli tbl

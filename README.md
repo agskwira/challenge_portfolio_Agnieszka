@@ -184,7 +184,8 @@ Dane w najpopularniejszych typach baz danych stosowanych obecnie są zwykle umie
  
 ### Subtask 1 - Podstawy języka SQL
 <details>
-<summary> **SELECT** </summary> 
+<summary> __SELECT__ </summary> 
+ 
 * SELECT * FROM tbl
  
 wybiera wszystkie wiersze i kolumny z tabeli tbl
@@ -204,7 +205,7 @@ wybiera wszystkie wiersze i kolumny z tabeli tbl
  wybiera niepowtarzające się wiersze z kolumn c1 i c2 z tabeli tbl
 <details>
  
-<summary> **GROUP BY, HAVING** </summary> 
+<summary> __GROUP BY, HAVING__ </summary> 
  
  *  SELECT  c1, aggregate(expr)
  FROM tbl

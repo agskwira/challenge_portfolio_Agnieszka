@@ -185,8 +185,6 @@ Dane w najpopularniejszych typach baz danych stosowanych obecnie są zwykle umie
 ### Subtask 1 - Podstawy języka SQL
 <details>
 <summary> SELECT </summary> 
- 
-
 * SELECT * FROM tbl
  
 wybiera wszystkie wiersze i kolumny z tabeli tbl
@@ -198,7 +196,32 @@ wybiera wszystkie wiersze i kolumny z tabeli tbl
  ORDER BY c1 ASC, c2 DESC
  
  wybiera rekordy z kolumn c1 i c2 zgodnie z warunkiem
- i porządkuje rekordy zgodnie z kolumną c1 majejąco i kolumną c2 rosnąco
+ i porządkuje rekordy zgodnie z kolumną c1 rosnąco i kolumną c2 malejąco
+ 
+ * SELECT DISTINCT c1, c2
+ FROM tbl
+ 
+ wybiera niepowtarzające się wiersze z kolumn c1 i c2 z tabeli tbl
+<details>
+<summary> GROUP BY, HAVING </summary> 
+ 
+ *  SELECT  c1, aggregate(expr)
+ FROM tbl
+ GROUP BY
+ 
+ Wybiera kolumnę c1 i oblicza funkcję aggregate(expr), grupuje po rekordach z kolumny c1 
+ 
+ * SELECT c1, aggregate(expr) AS c2
+ FROM tbl
+ GROUP BY c1
+ HAVEING c2>V
+ 
+ Wybiera kolumny c1 i c2 jako tymczasowa nazwa kolumny z wynikiem funkcji aggregate(expr)
+ Filtruje grupy utworzone naodstawie kolumny c1 z wartościami c2 większymi od V
+ 
+ 
+ 
+ 
  
  
  

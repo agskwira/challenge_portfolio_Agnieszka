@@ -426,6 +426,8 @@ To darmowy, wieloplatformowy, zintegrowany pakiet, składający się głównie z
 SELECT * FROM `actors` 
 
 ORDER BY `surname`ASC;
+ 
+ 
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/eb73c810-be30-4263-a4d2-7b6ef8f4e374)
 
 

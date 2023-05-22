@@ -275,9 +275,7 @@ wybiera wartosć minimalną z rekordów z kolumny c1 dla tabeli tbl dla których
 Operator BETWEEN wybiera wartości w podanym zakreie (liczb, dat, liter)
 bierze pod uwagę rówńież wartości poczatkowe i końcowe
  
-SELECT c1
-  FROM tbl
-  WHERE c1 BETWEEN w1 AND w2;
+SELECT c1  FROM tbl  WHERE c1 BETWEEN w1 AND w2;
  
 * IN, NOT IN 
  

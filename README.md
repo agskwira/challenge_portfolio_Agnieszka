@@ -270,9 +270,18 @@ wybiera wartosć minimalną z rekordów z kolumny c1 dla tabeli tbl dla których
  
  Operatory określające zbiór do jakiego należą dane
  
- * IN, NOT IN - wartości są w zbiorze danych , wartości nie nalerzą do zbioru danych 
+* BETWEEN
  
- . LIKE wartości sa określone wg wzoru 
+Operator BETWEEN wybiera wartości w podanym zakreie (liczb, dat, liter)
+bierze pod uwagę rówńież wartości poczatkowe i końcowe
+ 
+* IN, NOT IN 
+ 
+ wartości są w zbiorze danych , wartości nie nalerzą do zbioru danych 
+ 
+*  LIKE wartości sa określone wg wzoru 
+ 
+ 
  Przykłady:
 WHERE c1 LIKE 'a%'	znalduje wartości zaczynające się na "a" 
 WHERE c1 LIKE '%a'	znajduje wartości kończące się na "a"

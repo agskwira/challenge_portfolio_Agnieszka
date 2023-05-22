@@ -437,7 +437,7 @@ ORDER BY `surname`ASC;
  
 SELECT * FROM `movies` 
  
-WHERE `year_of_production`= '2019'
+WHERE `year_of_production`= '2019';
  
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/3ae7f5e9-8023-4938-85a9-fdc6678accec)
 </details>
@@ -449,8 +449,82 @@ SELECT * FROM `movies`
  
 WHERE `year_of_production` BETWEEN 1900 AND 1999;
  
- 
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/3ee2c923-e872-489e-9dac-278625aaed64)
+ 
+</details>
+<details>
+<summary> ❓zad.4 Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$ </summary> 
+ SELECT title, price FROM `movies` 
+ 
+ WHERE price < 7;
+ 
+                 
+![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/37fab2d6-dcff-4be3-9770-5c4d8d87e28a)
+
+                 
+</details>
+<details>
+<summary> ❓zad.5 Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.</summary> 
+ 
+SELECT * FROM `actors`
+ 
+ 
+WHERE actor_id > 4 AND actor_id <7;
+                                    
+![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/d6e98b06-6104-49b6-a508-6000f6059082)
+                                    
+</details>
+<details>
+<summary> ❓zad.6 Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny </summary> 
+ 
+SELECT * FROM `customers` 
+ 
+WHERE customer_id = 2 OR customer_id = 4 OR customer_id = 6;
+ 
+![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/5f071785-244d-4500-830b-70cce1270f9a)
+
+</details>
+<details>
+<summary> ❓zad.7 Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN </summary> 
+ 
+ 
+SELECT * FROM `customers` 
+ 
+ 
+WHERE customer_id IN (1,3,5);
+ 
+![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/9ee964e6-0c47-4640-babe-d9b4d43c48ee)
+
+</details>
+<details>
+<summary> ❓zad.8 Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An” </summary> 
+ 
+SELECT * FROM `actors`  
+ 
+
+WHERE name LIKE 'An%';
+ 
+![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/b0d9f326-178a-48f9-8750-d891cf37d374)
+
+</details>
+<details>
+<summary> ❓zad.9 Wyświetl dane klienta, który nie ma podanego adresu email.</summary> 
+ 
+SELECT DISTINCT * FROM `customers`;
+ 
+![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/9109410f-6d61-4320-90be-233c961a9721)
+
+</details>
+<details> 
+<summary> ❓zad.10 Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id. </summary> 
+ 
+SELECT * FROM `movies`
+ 
+ 
+WHERE movie_id BETWEEN 2 AND 8 AND price > 9;
+ 
+![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/9a858e39-25a3-449e-94df-562913205899)
+ </details>
 
 
 

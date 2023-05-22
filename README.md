@@ -279,7 +279,7 @@ SELECT c1  FROM tbl  WHERE c1 BETWEEN w1 AND w2;
  
 * IN, NOT IN 
  
-wartości są w zbiorze danych , wartości nie nalerzą do zbioru danych 
+Wartości są w zbiorze danych , wartości nie nalerzą do zbioru danych 
  
   SELECT c1
   FROM tbl
@@ -296,8 +296,92 @@ wartości są w zbiorze danych , wartości nie nalerzą do zbioru danych
    - WHERE c1 LIKE '_r%'	znajduje wartości z "r" na drugiej pozycji 
    - WHERE c1 LIKE 'a_%'znajduje wartości zaczynające się na "a" które mają conajmniej 2 znaki 
    - WHERE c1 LIKE 'a__%'	znajduje wartości zaczynające się na "a" które mają conajmniej 3 znaki 
-   -  WHERE c1LIKE 'a%o'	znajduje wartości zaczynające się na "a" i kończące się na "o"
+   - WHERE c1LIKE 'a%o'	znajduje wartości zaczynające się na "a" i kończące się na "o"
+</details>
 
+<details>
+ 
+<summary> Aktualizacja tabeli </summary> 
+ 
+ 
+ * INSERT INTO tbl(c1, c2,....) VALUES (v1, v2,....)
+  
+   Wpisuje dane w tabeli
+ 
+ 
+ * INSERT INTO tbl(c1,c2....)
+ SELECT c1, c2..FROM tbl2
+ WHERE x
+ 
+ Wpisuje dane do tabeli tbl z tabeli tbl2, dla których  jest spełniony warunek x
+ 
+ * UPDTE tbl
+ SET c1=v1, c2=v2
+ WHERE x
+ Usktualnia w tabeli tbl wartości z kolumny c1, c2, dla których jest spełniony warunek
+ 
+ * DELETE FROM tbl WHERE x
+ Usuwa wrtości z tablei tbl, dla których jest spełniony warunek x
+ 
+ </details>
+
+<details>
+ 
+<summary> Tworzenie tabeli </summary> 
+ 
+ * CREATE TABLE tbl (
+ c1 datatype(lenght)
+ c2 datatype(lenght)
+ ...
+ PRIMARY KEY(c1)
+ 
+ Tworzy  tabele tbl z kolumnami c1, c2,... z PRIMARY KEY (c1)
+ 
+* DROP TABLE tbl
+ usuwa tabelę tbl z bazy danych
+ 
+* ALTER TABLE  tbl 
+ ADD COLUMN c1 datatype(lenght)
+ 
+ Dodaje kolumne c1 do tabeli tbl
+ 
+* ALTER TABLE tbl
+ DROP COLUMN c1
+ 
+
+ Usuwa kolumnę c1 z tabeli tbl
+  </details>
+
+<details>
+ 
+<summary> Łączenie tabel  </summary> 
+ 
+* SELECT * FROM tbl INNER JOIN tbl2 ON y
+ 
+ Łączy wsólne rekordy kolumn z tbl i tbl2 bazując na warynku y
+
+![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/041ce10e-2ba6-47ff-b593-bca73b83abc9)
+ 
+ 
+Przykłady:
+ 
+SELECT column_name(s)
+FROM table1
+INNER JOIN table2
+ON table1.column_name = table2.column_name;
+ 
+* SELECT * FROM tbl1 LEFT JOIN tbl2 ON Y
+ 
+ 
+* SELECT * FROM tbl1 RIGHT JOIN tbl2 ON Y
+* SELECT * FROM tbl1  JOIN tbl2 ON Y
+
+ 
+ 
+ 
+ 
+ 
+  
  
  
  

@@ -276,18 +276,15 @@ Operator BETWEEN wybiera wartości w podanym zakreie (liczb, dat, liter)
 bierze pod uwagę rówńież wartości poczatkowe i końcowe
  
 SELECT c1
-
- FROM tbl
-
- WHERE c1 BETWEEN w1 AND w2;
+  FROM tbl
+  WHERE c1 BETWEEN w1 AND w2;
  
 * IN, NOT IN 
  
 SELECT c1
-FROM tbl
-WHERE c1 IN (w1,w2....);
- 
- wartości są w zbiorze danych , wartości nie nalerzą do zbioru danych 
+  FROM tbl
+  WHERE c1 IN (w1,w2....);
+  wartości są w zbiorze danych , wartości nie nalerzą do zbioru danych 
  
 *  LIKE wartości sa określone wg wzoru 
  

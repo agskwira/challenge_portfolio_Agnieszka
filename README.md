@@ -327,7 +327,7 @@ Wartości są w zbiorze danych , wartości nie nalerzą do zbioru danych
 
 <details>
  
-<summary> Tworzenie tabeli </summary> 
+<summary> Tworzenie tabel </summary> 
  
  * CREATE TABLE tbl (
  c1 datatype(lenght)
@@ -363,7 +363,7 @@ Wartości są w zbiorze danych , wartości nie nalerzą do zbioru danych
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/041ce10e-2ba6-47ff-b593-bca73b83abc9)
  
  
-Przykłady:
+Przykład:
  
 SELECT column_name(s)
 FROM table1
@@ -372,9 +372,44 @@ ON table1.column_name = table2.column_name;
  
 * SELECT * FROM tbl1 LEFT JOIN tbl2 ON Y
  
+ Łączy wszystkie rekordy kolumn z tbl i wspólne tbl2 bazując na warynku y
  
+ ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/26bf1c63-e549-4ea9-840b-ef36468569f9)
+ 
+ Przykład:
+ 
+SELECT column_name(s)
+FROM table1
+LEFT JOIN table2
+ON table1.column_name = table2.column_name;
+  
 * SELECT * FROM tbl1 RIGHT JOIN tbl2 ON Y
-* SELECT * FROM tbl1  JOIN tbl2 ON Y
+ 
+ Łączy wsólne rekordy kolumn z tbl i wszystkie  tbl2 bazując na warynku y
+ 
+ ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/cce5d6e2-ffac-41be-b41f-53905bab7815)
+
+ 
+ Przykład: 
+ 
+SELECT column_name(s)
+FROM table1
+RIGHT JOIN table2
+ON table1.column_name = table2.column_name;
+
+* SELECT * FROM tbl1  FULL OUTER JOIN  tbl2 ON Y
+ 
+  Łączy wssystkie rekordy kolumn z tbl i tbl2 bazując na warynku y
+ 
+![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/27fa407b-aeda-4457-b038-e1de8fc11eb3)
+ 
+Przykład:
+ 
+SELECT column_name(s)
+FROM table1
+FULL OUTER JOIN table2
+ON table1.column_name = table2.column_name
+WHERE condition;
 
  
  

@@ -267,6 +267,20 @@ wybiera wartosć minimalną z rekordów z kolumny c1 dla tabeli tbl dla których
 <details>
  
 <summary>BETWEEN, IN, NOT IN, LIKE </summary> 
+ 
+ Operatory określające zbiór do jakiego należą dane
+ 
+ * IN, NOT IN - wartości są w zbiorze danych , wartości nie nalerzą do zbioru danych 
+ 
+ . LIKE wartości sa określone wg wzoru 
+ Przykłady:
+WHERE c1 LIKE 'a%'	znalduje wartości zaczynające się na "a" 
+WHERE c1 LIKE '%a'	znajduje wartości kończące się na "a"
+WHERE c1 LIKE '%or%'	znajduje wartości z wyrażeniem "or" 
+WHERE c1 LIKE '_r%'	znajduje wartości z "r" na drugiej pozycji 
+WHERE c1 LIKE 'a_%'znajduje wartości zaczynające się na "a" które mają conajmniej 2 znaki 
+WHERE c1 LIKE 'a__%'	znajduje wartości zaczynające się na "a" które mają conajmniej 3 znaki 
+WHERE c1LIKE 'a%o'	znajduje wartości zaczynające się na "a" i kończące się na "o"
 
  
  

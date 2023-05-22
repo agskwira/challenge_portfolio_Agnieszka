@@ -412,7 +412,25 @@ ON table1.column_name = table2.column_name
 WHERE condition;
 </details>
 
+
+## Subtask 2 - Konfiguracja środowiska i wgranie bazy danych<details>
  
+<summary>:woman_teacher: Xampp  </summary> 
+
+<details>
+To darmowy, wieloplatformowy, zintegrowany pakiet, składający się głównie z serwera Apache, bazy danych MySQL i interpreterów dla skryptów napisanych w językach PHP i Perl. Nazwa XAMPP jest akronimem od X (ang. cross-platform), Apache, MySQL, PHP, Perl.
+</details>
+<details>
+<summary> ❓ zad.1 Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname. </summary> 
+ 
+SELECT * FROM `actors` 
+
+ORDER BY `surname`ASC;
+![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/eb73c810-be30-4263-a4d2-7b6ef8f4e374)
+
+
+</details>
+
  
  
  

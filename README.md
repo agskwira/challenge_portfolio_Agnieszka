@@ -432,6 +432,27 @@ ORDER BY `surname`ASC;
 
 
 </details>
+<details>
+<summary> ❓ zad.2 Wyświetl film, który powstał w 2019 roku. </summary> 
+ 
+SELECT * FROM `movies` 
+ 
+WHERE `year_of_production`= '2019'
+ 
+![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/3ae7f5e9-8023-4938-85a9-fdc6678accec)
+</details>
+<details>
+<summary> ❓zad.3 Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem </summary> 
+ 
+SELECT * FROM `movies` 
+ 
+ 
+WHERE `year_of_production` BETWEEN 1900 AND 1999;
+ 
+ 
+![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/3ee2c923-e872-489e-9dac-278625aaed64)
+
+
 
  
  

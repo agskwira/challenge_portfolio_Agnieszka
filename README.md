@@ -88,10 +88,11 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
 * Przypadki testowe opisują wizję klienta na temat działania aplikacji
 </details> 
  <details>
-  <summary>Narzędzia do pisania przypadków testowych:hammer_and_wrench:</summary> 
-  <p></p>
-  * [TestLink](https://testlink.org/)
-  * [Azure DevOPS](https://learn.microsoft.com/pl-pl/azure/devops/test/create-test-cases?view=azure-devops)
+ <summary>Narzędzia do pisania przypadków testowych:hammer_and_wrench:</summary> 
+ <p></p>
+           
+ * [TestLink](https://testlink.org/)
+ * [Azure DevOPS](https://learn.microsoft.com/pl-pl/azure/devops/test/create-test-cases?view=azure-devops)
  </details>
  
  ## Task 3 Raportowanie błędów

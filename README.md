@@ -504,10 +504,10 @@ WHERE movie_id BETWEEN 2 AND 8 AND price > 9;
 ## Task 6 SQL part 2
            
 <details> 
-<summary> ❓zad.11 Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd
+<summary> ❓zad.11 Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd </summary>
            
-*SET surname = "Miler"
-*WHERE customer_id = 3;
+<p>SET surname = "Miler"
+<p>WHERE customer_id = 3; </p>
            
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/2ff628fd-e62d-448b-be1e-3b65cc7d5e1d)
  
@@ -515,7 +515,7 @@ WHERE movie_id BETWEEN 2 AND 8 AND price > 9;
 <details> 
 <summary> ❓zad.10 Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej. </summary> 
            
-           
+ <p></p>          
  <p> SELECT  customers.customer_id, customers.name, customers.email, sale.movie_id
  <p>FROM sale</p>
  <p>JOIN customers ON customers.customer_id=sale.customer_id

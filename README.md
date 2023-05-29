@@ -77,14 +77,15 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
 </details>
 
 <details>
- <summary> Dlaczego piszemy przypadki testowe :thinking:</summary>
-<p></p> 
-  * Przypadki testowe są bazą wiedzy o aplikacji
-  * Zdarza się, że przypadki testowe są jedyną dokumentacja o tym jak aplikacja prawidłowo powinna działać
-  * Przypadki testowe dają możliwość powtarzalnego, udokumentowanego testowania.
-  * Przypadki testowe dają możliwość konroli nad zmianami w konkretnych funkcjonalnościach aplikacji 
-  * Przypadki testowe pomagają przygotowac dane testowe
-  * Przypadki testowe opisują wizję klienta na temat działania aplikacji
+<summary> Dlaczego piszemy przypadki testowe :thinking:</summary>
+<p></p>
+           
+* Przypadki testowe są bazą wiedzy o aplikacji
+* Zdarza się, że przypadki testowe są jedyną dokumentacja o tym jak aplikacja prawidłowo powinna działać
+* Przypadki testowe dają możliwość powtarzalnego, udokumentowanego testowania.
+* Przypadki testowe dają możliwość konroli nad zmianami w konkretnych funkcjonalnościach aplikacji 
+* Przypadki testowe pomagają przygotowac dane testowe
+* Przypadki testowe opisują wizję klienta na temat działania aplikacji
 </details> 
  <details>
   <summary>Narzędzia do pisania przypadków testowych:hammer_and_wrench:</summary> 

@@ -477,10 +477,9 @@ WHERE actor_id >= 4 AND actor_id <= 7;
                                     
 </details>
 <details>
-<summary> ❓zad.6 Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny </summary> 
+<summary> ❓zad.6 #### Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny </summary> 
  
-SELECT * FROM `customers` 
- 
+SELECT * FROM `customers`  
 WHERE customer_id = 2 OR customer_id = 4 OR customer_id = 6;
  
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/5f071785-244d-4500-830b-70cce1270f9a)
@@ -502,8 +501,6 @@ WHERE customer_id IN (1,3,5);
 <summary> ❓zad.8 Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An” </summary> 
  
 SELECT * FROM `actors`  
- 
-
 WHERE name LIKE 'An%';
  
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/b0d9f326-178a-48f9-8750-d891cf37d374)

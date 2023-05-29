@@ -477,7 +477,7 @@ WHERE actor_id >= 4 AND actor_id <= 7;
                                     
 </details>
 <details>
-<summary> #### ❓zad.6 Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny </summary> 
+####<summary>❓zad.6 Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny </summary> 
  
 SELECT * FROM `customers`  
 WHERE customer_id = 2 OR customer_id = 4 OR customer_id = 6;
@@ -509,8 +509,7 @@ WHERE name LIKE 'An%';
 <details>
 <summary> ❓zad.9 Wyświetl dane klienta, który nie ma podanego adresu email.</summary> 
  
-SELECT * FROM customers
- 
+SELECT * FROM customers 
 WHERE email IS NULL
  
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/a4f87bf3-f3c6-4977-8113-ca3e27b3719e)

@@ -130,8 +130,8 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
 ### Subtask 3 Do czego służy ta aplikacja?
 <details>
 <summary>❓Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?</summary>
- <p></p>
- Aplikacja służy do
+<p></p>
+Aplikacja służy do
  
  * Wystawiania ogłoszeń o:
    * Sprzedaży przedmiotów używanych 
@@ -145,17 +145,17 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
  </details>
  <details>
  <summary>❓Kto ma być użytkownikiem końcowym aplikacji?</summary>
-  <p></p>
+ <p></p>
  * Użytkownikiem końcowym aplikacji ma być oferujący bądź odbiorca - kupujący oferowanych dóbr i usług
  </details>
  <details>
  <summary> ❓Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski.</summary>
-  <p></p>
+ <p></p>
  * Moim zdni plikacja jest przyjazna dla użytkowanika . Szybko i łatwo się zniej korzysta. Jednak moja opinia jest pisana z perspektywy długoletniego użytkownika tej alikacji. Jestem już nauczona "Schematu " poruszania się w OLX slaego opinia nowego użytkownika, który dopiero się jej uczy , może być inna.
 </details>
 <details>
  <summary> ❓Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?</summary>
-  <p></p>
+ <p></p>
  
  W aplikacji OLX brakuje mi:
  
@@ -167,7 +167,7 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
  </details>
  <details>
  <summary>❓Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej? </summary>
-  <p></p>
+ <p></p>
  
  Różnice:
  

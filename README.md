@@ -516,10 +516,10 @@ WHERE movie_id BETWEEN 2 AND 8 AND price > 9;
 <summary> ❓zad.10 Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej. </summary> 
            
            
- <p> SELECT  customers.customer_id, customers.name, customers.email, sale.movie_id</p>
- FROM sale
- JOIN customers ON customers.customer_id=sale.customer_id
- WHERE sale.movie_id= 4; </p>
+ <p> SELECT  customers.customer_id, customers.name, customers.email, sale.movie_id
+ <p>FROM sale</p>
+ <p>JOIN customers ON customers.customer_id=sale.customer_id
+ <p>WHERE sale.movie_id= 4; </p>
 
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/b7fb28a2-b820-472a-b70c-719554f5706d)
 

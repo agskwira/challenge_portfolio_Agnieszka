@@ -645,7 +645,11 @@ WHERE movie_id BETWEEN 2 AND 8 AND price > 9;
            
 </details> 
            
-### Subtask 2 - Test
+### Subtask 2 - Ecru Test
+<details>
+<summary> ❓Test result ❓	</summary>
+          13/15 	:sweat_smile:
+</details>
 ### Subtask 3 - Portfolio 
 :link: [Moje portfolio](https://github.com/agskwira/AgnieszkaSkwira_Portfolio)
            

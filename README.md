@@ -505,7 +505,7 @@ WHERE movie_id BETWEEN 2 AND 8 AND price > 9;
            
 <details> 
 <summary> ❓zad.11 Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd </summary>
-           
+<p></p>                
 <p>SET surname = "Miler"
 <p>WHERE customer_id = 3; </p>
            
@@ -522,7 +522,13 @@ WHERE movie_id BETWEEN 2 AND 8 AND price > 9;
  <p>WHERE sale.movie_id= 4; </p>
 
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/b7fb28a2-b820-472a-b70c-719554f5706d)
-
+</details>
+<details> 
+<summary> Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com</summary> 
+ <p></p>          
+<p>UPDATE customers
+<p>SET email='pati@mail.com'
+<p>WHERE name = 'Patrycja';</p>
 
 
 

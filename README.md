@@ -2,7 +2,7 @@
 ## Task 1 Exploratory testing
 
 ### Subtask 1 Test result
-<details> ####
+<details>
 <summary> ❓Test result ❓	</summary>
            9/10 	:sweat_smile:
 </details>
@@ -424,7 +424,6 @@ To darmowy, wieloplatformowy, zintegrowany pakiet, składający się głównie z
 <summary> ❓ zad.1 Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname. </summary> 
  
 SELECT * FROM `actors` 
-
 ORDER BY `surname`ASC;
  
  
@@ -436,7 +435,6 @@ ORDER BY `surname`ASC;
 <summary> ❓ zad.2 Wyświetl film, który powstał w 2019 roku. </summary> 
  
 SELECT * FROM `movies` 
- 
 WHERE `year_of_production`= '2019';
  
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/3ae7f5e9-8023-4938-85a9-fdc6678accec)
@@ -445,8 +443,6 @@ WHERE `year_of_production`= '2019';
 <summary> ❓zad.3 Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem </summary> 
  
 SELECT * FROM `movies` 
- 
- 
 WHERE `year_of_production` BETWEEN 1900 AND 1999;
  
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/3ee2c923-e872-489e-9dac-278625aaed64)
@@ -454,8 +450,8 @@ WHERE `year_of_production` BETWEEN 1900 AND 1999;
 </details>
 <details>
 <summary> ❓zad.4 Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$ </summary> 
- SELECT title, price FROM `movies` 
- 
+
+ SELECT title, price FROM `movies`  
  WHERE price < 7;
  
                  
@@ -466,10 +462,7 @@ WHERE `year_of_production` BETWEEN 1900 AND 1999;
 <details>
 <summary> ❓zad.5 Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.</summary> 
  
- 
-SELECT * FROM `actors`
- 
- 
+SELECT * FROM `actors` 
 WHERE actor_id >= 4 AND actor_id <= 7;
                                     
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/bbc917ac-37e5-4cca-93ce-f0d2c9a713d8)
@@ -488,10 +481,7 @@ WHERE customer_id = 2 OR customer_id = 4 OR customer_id = 6;
 <details>
 <summary> ❓zad.7 Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN </summary> 
  
- 
 SELECT * FROM `customers` 
- 
- 
 WHERE customer_id IN (1,3,5);
  
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/9ee964e6-0c47-4640-babe-d9b4d43c48ee)
@@ -519,9 +509,7 @@ WHERE email IS NULL
 <details> 
 <summary> ❓zad.10 Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id. </summary> 
  
-SELECT * FROM `movies`
- 
- 
+SELECT * FROM `movies` 
 WHERE movie_id BETWEEN 2 AND 8 AND price > 9;
  
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/9a858e39-25a3-449e-94df-562913205899)

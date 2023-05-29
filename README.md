@@ -424,7 +424,7 @@ FROM table1
 FULL OUTER JOIN table2
 ON table1.column_name = table2.column_name
 WHERE condition;
-</details>
+
 
 * UNION
 Wyświetla niepowtarzające się wartości z róznych kolumn/tabel w jednej kolumnie 
@@ -442,7 +442,7 @@ SELECT City FROM Customers
 UNION ALL
 SELECT City FROM Suppliers
 ORDER BY City;
-
+</details>
 ### Subtask 2 - Konfiguracja środowiska i wgranie bazy danych
 
 <summary>:woman_teacher: Xampp  </summary> 

@@ -369,6 +369,7 @@ Wartości są w zbiorze danych , wartości nie nalerzą do zbioru danych
  
 <summary> Łączenie tabel  </summary> 
 <p></p> 
+           
 * SELECT * FROM tbl INNER JOIN tbl2 ON y
  
  Łączy wsólne rekordy kolumn z tbl i tbl2 bazując na warynku y

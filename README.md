@@ -122,7 +122,7 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
 ### Subtask 3 Do czego służy ta aplikacja?
 <details>
 <summary>❓Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?</summary>
- 
+ <p></p>
  Aplikacja służy do
  
  * Wystawiania ogłoszeń o:
@@ -137,17 +137,17 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
  </details>
  <details>
  <summary>❓Kto ma być użytkownikiem końcowym aplikacji?</summary>
- 
+  <p></p>
  * Użytkownikiem końcowym aplikacji ma być oferujący bądź odbiorca - kupujący oferowanych dóbr i usług
  </details>
  <details>
  <summary> ❓Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski.</summary>
- 
+  <p></p>
  * Moim zdni plikacja jest przyjazna dla użytkowanika . Szybko i łatwo się zniej korzysta. Jednak moja opinia jest pisana z perspektywy długoletniego użytkownika tej alikacji. Jestem już nauczona "Schematu " poruszania się w OLX slaego opinia nowego użytkownika, który dopiero się jej uczy , może być inna.
 </details>
 <details>
  <summary> ❓Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?</summary>
- 
+  <p></p>
  
  W aplikacji OLX brakuje mi:
  
@@ -159,7 +159,7 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
  </details>
  <details>
  <summary>❓Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej? </summary>
- 
+  <p></p>
  
  Różnice:
  
@@ -172,11 +172,13 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
 ## Task 5  SQL part 1
 <details>
 <summary>:woman_teacher:Strukturalny język zapytań (SQL)</summary>
+<p></p>
 to język deklaratywny stworzony przez firmę IBM w latach 70-tych. Służy on do tworzenia, modyfikowania, jak i wyciągania danych z bazy. Język ten cieszy się dużą popularnością choćby dlatego, że jest interpretowany przez systemy baz danych np.: MySQL czy też Microsoft SQL Server. Jednak nie należy on do bezpiecznych języków. Źle zabezpieczona baza danych może zostać w każdej chwili zaatakowana, w wyniku czego możemy utracić dane..
 </details>
 
 <details>
 <summary> :woman_teacher:Baza danych</summary> 
+<p></p>
 to zorganizowany zbiór usystematyzowanych informacji, czyli danych, zwykle przechowywany w systemie komputerowym w formie elektronicznej. Bazą danych steruje zwykle system zarządzania bazami danych (DBMS). Dane i system DBMS oraz powiązane z nimi aplikacje razem tworzą system bazodanowy, często nazywany w skrócie bazą danych.
 
 Dane w najpopularniejszych typach baz danych stosowanych obecnie są zwykle umieszczone w wierszach i kolumnach szeregu tabel, co usprawnia przetwarzanie danych i tworzenie dotyczących ich zapytań. Dzięki temu dostęp do danych, zarządzanie i sterowanie nimi oraz ich modyfikowanie, aktualizowanie i organizowanie jest łatwiejsze. Większość baz danych wykorzystuje do zapisywania danych i tworzenia dotyczących ich zapytań język SQL (Structured Query Language, strukturalny język zapytań).
@@ -185,7 +187,7 @@ Dane w najpopularniejszych typach baz danych stosowanych obecnie są zwykle umie
 ### Subtask 1 - Podstawy języka SQL
 <details>
 <summary> SELECT</summary> 
- 
+ <p></p> 
 * SELECT * FROM tbl
  
 wybiera wszystkie wiersze i kolumny z tabeli tbl
@@ -206,7 +208,7 @@ wybiera wszystkie wiersze i kolumny z tabeli tbl
 </details>
 <details>
 <summary> GROUP BY, HAVING </summary> 
- 
+<p></p> 
  *  SELECT  c1, aggregate(expr)
  FROM tbl
  GROUP BY
@@ -226,7 +228,7 @@ wybiera wszystkie wiersze i kolumny z tabeli tbl
 <details>
  
 <summary>  COUNT(), AVG() and SUM(), MAX(), MIN()</summary> 
- 
+<p></p> 
 * COUNT()
 SELECT COUNT(c1)
 FROM tbl
@@ -267,7 +269,7 @@ wybiera wartosć minimalną z rekordów z kolumny c1 dla tabeli tbl dla których
 <details>
  
 <summary>BETWEEN, IN, NOT IN, LIKE </summary> 
- 
+<p></p> 
  Operatory określające zbiór do jakiego należą dane
  
 * BETWEEN
@@ -302,7 +304,7 @@ Wartości są w zbiorze danych , wartości nie nalerzą do zbioru danych
 <details>
  
 <summary> Aktualizacja tabeli </summary> 
- 
+<p></p> 
  
  * INSERT INTO tbl(c1, c2,....) VALUES (v1, v2,....)
   
@@ -328,7 +330,7 @@ Wartości są w zbiorze danych , wartości nie nalerzą do zbioru danych
 <details>
  
 <summary> Tworzenie tabel </summary> 
- 
+<p></p> 
  * CREATE TABLE tbl (
  c1 datatype(lenght)
  c2 datatype(lenght)
@@ -355,7 +357,7 @@ Wartości są w zbiorze danych , wartości nie nalerzą do zbioru danych
 <details>
  
 <summary> Łączenie tabel  </summary> 
- 
+<p></p> 
 * SELECT * FROM tbl INNER JOIN tbl2 ON y
  
  Łączy wsólne rekordy kolumn z tbl i tbl2 bazując na warynku y
@@ -416,13 +418,13 @@ WHERE condition;
 ### Subtask 2 - Konfiguracja środowiska i wgranie bazy danych
 
 <summary>:woman_teacher: Xampp  </summary> 
-
+<p></p>
 <details>
 To darmowy, wieloplatformowy, zintegrowany pakiet, składający się głównie z serwera Apache, bazy danych MySQL i interpreterów dla skryptów napisanych w językach PHP i Perl. Nazwa XAMPP jest akronimem od X (ang. cross-platform), Apache, MySQL, PHP, Perl.
 </details>
 <details>
 <summary> ❓ zad.1 Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname. </summary> 
-            
+<p></p>            
 SELECT * FROM `actors` 
 ORDER BY `surname`ASC;
  
@@ -430,7 +432,7 @@ ORDER BY `surname`ASC;
 </details>           
 <details>
 <summary> ❓ zad.2 Wyświetl film, który powstał w 2019 roku. </summary> 
- 
+<p></p> 
 SELECT * FROM `movies` 
 WHERE `year_of_production`= '2019';
  
@@ -438,7 +440,7 @@ WHERE `year_of_production`= '2019';
 </details>          
 <details>
 <summary> ❓zad.3 Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem </summary> 
- 
+<p></p> 
 SELECT * FROM `movies` 
 WHERE `year_of_production` BETWEEN 1900 AND 1999;
 
@@ -447,7 +449,7 @@ WHERE `year_of_production` BETWEEN 1900 AND 1999;
 </details>          
 <details>
 <summary> ❓zad.4 Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$ </summary> 
-
+<p></p>
 SELECT title, price FROM `movies`  
 WHERE price < 7;
                   
@@ -455,7 +457,7 @@ WHERE price < 7;
 </details>
 <details>
 <summary> ❓zad.5 Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.</summary> 
- 
+<p></p> 
 SELECT * FROM `actors` 
 WHERE actor_id >= 4 AND actor_id <= 7;
                                     
@@ -463,7 +465,7 @@ WHERE actor_id >= 4 AND actor_id <= 7;
 </details>
 <details>
 <summary>❓zad.6 Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny </summary> 
- 
+<p></p> 
 SELECT * FROM `customers`  
 WHERE customer_id = 2 OR customer_id = 4 OR customer_id = 6;
  
@@ -471,7 +473,7 @@ WHERE customer_id = 2 OR customer_id = 4 OR customer_id = 6;
 </details>
 <details>
 <summary> ❓zad.7 Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN </summary> 
- 
+<p></p> 
 SELECT * FROM `customers` 
 WHERE customer_id IN (1,3,5);
  
@@ -479,7 +481,7 @@ WHERE customer_id IN (1,3,5);
 </details>
 <details>
 <summary> ❓zad.8 Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An” </summary> 
- 
+<p></p> 
 SELECT * FROM `actors`  
 WHERE name LIKE 'An%';
  
@@ -487,7 +489,7 @@ WHERE name LIKE 'An%';
 </details>
 <details>
 <summary> ❓zad.9 Wyświetl dane klienta, który nie ma podanego adresu email.</summary> 
- 
+<p></p> 
 SELECT * FROM customers 
 WHERE email IS NULL
  
@@ -495,7 +497,7 @@ WHERE email IS NULL
 </details>
 <details> 
 <summary> ❓zad.10 Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id. </summary> 
- 
+<p></p> 
 SELECT * FROM `movies` 
 WHERE movie_id BETWEEN 2 AND 8 AND price > 9;
  

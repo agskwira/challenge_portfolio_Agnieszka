@@ -328,7 +328,7 @@ Wartości są w zbiorze danych , wartości nie nalerzą do zbioru danych
  
  Wpisuje dane do tabeli tbl z tabeli tbl2, dla których  jest spełniony warunek x
  
- * UPDTE tbl
+ * UPDATE tbl
  SET c1=v1, c2=v2
  WHERE x
  Usktualnia w tabeli tbl wartości z kolumny c1, c2, dla których jest spełniony warunek
@@ -425,6 +425,22 @@ ON table1.column_name = table2.column_name
 WHERE condition;
 </details>
 
+* UNION
+Wyświetla niepowtarzające się wartości z róznych kolumn/tabel w jednej kolumnie 
+
+Przykład:
+SELECT City FROM Customers
+UNION
+SELECT City FROM Suppliers
+ORDER BY City;
+* UNION ALL
+Wyświetla wszystkie wartości z róznych kolumn/tabel w jednej kolumnie 
+
+Przykład:
+SELECT City FROM Customers
+UNION ALL
+SELECT City FROM Suppliers
+ORDER BY City;
 
 ### Subtask 2 - Konfiguracja środowiska i wgranie bazy danych
 

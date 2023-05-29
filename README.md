@@ -503,6 +503,8 @@ WHERE movie_id BETWEEN 2 AND 8 AND price > 9;
  </details>
            
 ## Task 6 SQL part 2
+
+### Subtask 1 - Krótki kurs podstaw SQL
            
 <details> 
 <summary> ❓zad.11 Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd </summary>

@@ -427,6 +427,8 @@ WHERE condition;
 
 
 * UNION
+           
+                      
 Wyświetla niepowtarzające się wartości z róznych kolumn/tabel w jednej kolumnie 
 
 Przykład:
@@ -434,7 +436,9 @@ SELECT City FROM Customers
 UNION
 SELECT City FROM Suppliers
 ORDER BY City;
+           
 * UNION ALL
+           
 Wyświetla wszystkie wartości z róznych kolumn/tabel w jednej kolumnie 
 
 Przykład:
@@ -443,6 +447,7 @@ UNION ALL
 SELECT City FROM Suppliers
 ORDER BY City;
 </details>
+
 ### Subtask 2 - Konfiguracja środowiska i wgranie bazy danych
 
 <summary>:woman_teacher: Xampp  </summary> 

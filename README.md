@@ -20,10 +20,11 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
 </details>
 <details>
 <summary>Funkcjonalności aplikacji "Scouts Panel" 	:computer:</summary>
-<p></p> 
-* Logowanie do aplikacji
+<p></p>
+           
+- Logowanie do aplikacji
  
-* Zmiana języka wyświetlania strony
+- Zmiana języka wyświetlania strony
  
 - Dodawanie nowego gracza wypełniając formularz
     W mojej opini opcja mało intuicyjna, przycisk "DODAJ GRACZA" znajduje się w panelu "Linki pomocnicze". W mojej opini dużo lepszym rozwiązanie byłoby dodanie tego          przycisku w panelu bocznym z prawej strony
@@ -44,11 +45,12 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
  <details>
 <summary> Znaezione błędy aplikacji :lady_beetle:</summary>
 <p></p> 
-  - Mozlliwość dodania zawodnika, którego imie i nawisko zawodnika, zawierają liczby i znaki specjalne 
+           
+ - Mozlliwość dodania zawodnika, którego imie i nawisko zawodnika, zawierają liczby i znaki specjalne 
  
-  - Możliwośc wpisania w pola zdobyte gole, stracone gole, oznaczające ilość  liter
+ - Możliwośc wpisania w pola zdobyte gole, stracone gole, oznaczające ilość  liter
  
-  - Po wciśnięciu przyciski "+Dodaj raport" w panelu "Raporty" przycisk zmienia się na przycisk "+ Dodaj mecz" bez informacji 
+ - Po wciśnięciu przyciski "+Dodaj raport" w panelu "Raporty" przycisk zmienia się na przycisk "+ Dodaj mecz" bez informacji 
 </details>
 <details>
 <summary> Ogólna subiektywna :nauseated_face: opinia o aplikacji "Scouts Panel":speaking_head:</summary>

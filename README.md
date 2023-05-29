@@ -427,8 +427,7 @@ SELECT * FROM `actors`
 ORDER BY `surname`ASC;
  
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/eb73c810-be30-4263-a4d2-7b6ef8f4e374)
-</details>
-           
+</details>           
 <details>
 <summary> ❓ zad.2 Wyświetl film, który powstał w 2019 roku. </summary> 
  
@@ -436,8 +435,7 @@ SELECT * FROM `movies`
 WHERE `year_of_production`= '2019';
  
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/3ae7f5e9-8023-4938-85a9-fdc6678accec)           
-</details>
-           
+</details>          
 <details>
 <summary> ❓zad.3 Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem </summary> 
  
@@ -446,8 +444,7 @@ WHERE `year_of_production` BETWEEN 1900 AND 1999;
 
            
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/3ee2c923-e872-489e-9dac-278625aaed64)
-</details>
-           
+</details>          
 <details>
 <summary> ❓zad.4 Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$ </summary> 
 
@@ -465,7 +462,7 @@ WHERE actor_id >= 4 AND actor_id <= 7;
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/bbc917ac-37e5-4cca-93ce-f0d2c9a713d8)                                    
 </details>
 <details>
-<summary> #### ❓zad.6 Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny </summary> 
+<summary>❓zad.6 Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny </summary> 
  
 SELECT * FROM `customers`  
 WHERE customer_id = 2 OR customer_id = 4 OR customer_id = 6;

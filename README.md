@@ -466,12 +466,14 @@ WHERE `year_of_production` BETWEEN 1900 AND 1999;
 <details>
 <summary> ❓zad.5 Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.</summary> 
  
+ 
 SELECT * FROM `actors`
  
  
-WHERE actor_id > 4 AND actor_id <7;
+WHERE actor_id >= 4 AND actor_id <= 7;
                                     
-![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/d6e98b06-6104-49b6-a508-6000f6059082)
+![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/bbc917ac-37e5-4cca-93ce-f0d2c9a713d8)
+
                                     
 </details>
 <details>

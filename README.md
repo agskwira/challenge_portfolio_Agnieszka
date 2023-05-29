@@ -608,7 +608,10 @@ WHERE movie_id BETWEEN 2 AND 8 AND price > 9;
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/5fd8c7e1-dd60-4194-9663-9e287ad5d643)
 
            
-</details>           
+</details> 
+           
+### Subtask 2 - Test
+### Subtask 3 - Portfolio 
 
  
  

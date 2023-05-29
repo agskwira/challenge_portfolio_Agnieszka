@@ -52,6 +52,7 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
 </details>
 <details>
 <summary> Ogólna subiektywna :nauseated_face: opinia o aplikacji "Scouts Panel":speaking_head:</summary>
+<p></p>
  W mojej opini interfejs aplikacji mało intuicyjny oraz mało atrakcyjny, wręcz nudny. Na stronie aplikacji brak jest walidacji wielu pól.
 Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałabym być uzytkownikem docelowym "Scouts Panel":wink:.
 </details>
@@ -69,6 +70,7 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
 ### Subtask 3 Po co piszemy test case’y?
 <details>
 <summary>Przypadek testowy wg ISTQB :woman_student:</summary>
+<p></p>
  to zbiór danych wejściowych, wstępnych warunków wykonania, oczekiwanych rezultatów i końcowych warunków wykonania opracowany w określonym celu lub dla warunku    testowego, jak wykonanie pewnej ścieżki programu lub zweryfikowanie zgodności z konkretnym wymaganiem.
 </details>
 
@@ -189,7 +191,8 @@ Dane w najpopularniejszych typach baz danych stosowanych obecnie są zwykle umie
 ### Subtask 1 - Podstawy języka SQL
 <details>
 <summary> SELECT</summary> 
- <p></p> 
+<p></p> 
+           
 * SELECT * FROM tbl
  
 wybiera wszystkie wiersze i kolumny z tabeli tbl

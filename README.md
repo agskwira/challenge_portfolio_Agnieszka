@@ -512,9 +512,12 @@ WHERE name LIKE 'An%';
 <details>
 <summary> ❓zad.9 Wyświetl dane klienta, który nie ma podanego adresu email.</summary> 
  
-SELECT DISTINCT * FROM `customers`;
+SELECT * FROM customers
  
-![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/9109410f-6d61-4320-90be-233c961a9721)
+WHERE email IS NULL
+ 
+![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/a4f87bf3-f3c6-4977-8113-ca3e27b3719e)
+
 
 </details>
 <details> 

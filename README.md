@@ -533,7 +533,8 @@ WHERE movie_id BETWEEN 2 AND 8 AND price > 9;
 </details>
 <details> 
 <summary>❓Zad.14 Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia). </summary> 
-<p>SELECT customers.customer_id,ustomers.name,customers.surname, movies.title
+<p></p>
+<p>SELECT customers.customer_id,customers.name,customers.surname, movies.title
 <p>FROM customers
 <p>INNER JOIN sale
 <p>ON customers.customer_id = sale.customer_id
@@ -541,41 +542,69 @@ WHERE movie_id BETWEEN 2 AND 8 AND price > 9;
 <p>ON sale.movie_id=movies.movie_id;</p>
 
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/afd82b79-fee4-4adf-bd13-09522d82c849)
+           
 </details>
 <details> 
 <summary>❓Zad.15 W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag </summary>
-
+<p></p>
 <P>ALTER TABLE customers
 <P>ADD COLUMN pseudonym VARCHAR(30)</P>
 </details>
 <details> 
 <summary>❓16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.</summary>
-</details>
+<p></p>
 <P>SELECT DISTINCT sale.movie_id, movies.title FROM movies
 <P>INNER JOIN  sale
 <P>ON sale.movie_id = movies.movie_id
-<P>ORDER BY sale.movie_id</P>         
+<P>ORDER BY sale.movie_id</P>   
+           
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/fe723cac-2473-4eaa-adaf-264f2e8fdb54)
+           
+</details>           
 <details> 
 <summary>❓17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)</summary>
+<p></p>
 <P>SELECT name from customers 
 <P>UNION 
 <P>SELECT name from actors
 <P>ORDER BY name;<p>
+           
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/cb9b078d-0aa8-42e4-a0b7-12bcebddadc7)
-</details>
+           
+ </details>
 <details> 
 <summary>❓18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).</summary>
+<p></p>
 <P>UPDATE movies
 <P>SET price = price + 2.5
 <P>WHERE year_of_production >2000;</p>
+           
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/3989fa93-2b4a-4ab7-8084-5f187f9a4253)
+           
 </details>
 <details> 
 <summary>❓19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał</summary>
+ <p></p>
+<P>SELECT actors.actor_id, actors.name, actors.surname, movies.title
+<P>FROM actors
+<P>INNER JOIN cast 
+<P>ON cast.actor_id = actors.actor_id
+<P>INNER JOIN movies
+<P>ON cast.movie_id = movies.movie_id
+<P>WHERE actors.actor_id = 4;</p>
+           
+![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/90c48732-7ab5-413d-ba20-08aa28970013)
+
 </details>
 <details>           
 <summary>❓20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa</summary>
+ <p></p>  
+<p>INSERT INTO customers (customer_id, name, surname, email, pseudonym)
+<p>VALUES (7, 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa');</p>  
+ 
+![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/5fd8c7e1-dd60-4194-9663-9e287ad5d643)
+
+           
 </details>           
 
  

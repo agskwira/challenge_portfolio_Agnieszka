@@ -21,25 +21,25 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
 <details>
 <summary>Funkcjonalności aplikacji "Scouts Panel" 	:computer:</summary>
 <p></p> 
- * Logowanie do aplikacji
+* Logowanie do aplikacji
  
- * Zmiana języka wyświetlania strony
+* Zmiana języka wyświetlania strony
  
- - Dodawanie nowego gracza wypełniając formularz
+- Dodawanie nowego gracza wypełniając formularz
     W mojej opini opcja mało intuicyjna, przycisk "DODAJ GRACZA" znajduje się w panelu "Linki pomocnicze". W mojej opini dużo lepszym rozwiązanie byłoby dodanie tego          przycisku w panelu bocznym z prawej strony
  
- - Dla kazdego zawodnika można dodać mecz w którym wziął/będzie brał udział za pomocą przycisku "Mecze">>> DODAJ MECZ
+- Dla kazdego zawodnika można dodać mecz w którym wziął/będzie brał udział za pomocą przycisku "Mecze">>> DODAJ MECZ
      W mojej opinii mało intuicyjna opcja widoczna dopiero o dodaniu zawodnika
  
- - Dla każdego zawodnika istnieje możliwośc stworzenia raportu za pomocą  przycisku "Raporty">>> DODAJ RAPORT
+- Dla każdego zawodnika istnieje możliwośc stworzenia raportu za pomocą  przycisku "Raporty">>> DODAJ RAPORT
      W mojej opinii mało intuicyjna opcja widoczna dopiero o dodaniu zawodnika, chociaż istnieje przycisk "dodaj raport" nie można go dodać po wciśnięcu zmienia się na        przycisk "Dodaj mecz"
  
- - Można wyświetlić listę graczy za pomocą przycisku "Gracze"
+- Można wyświetlić listę graczy za pomocą przycisku "Gracze"
      Opcja intuicyjna , widoczna w panelu bocznym 
  
- - istnieje możliwośc zmiany jezyka wyświetlania, dostępne języki : polski, angielski
+- istnieje możliwośc zmiany jezyka wyświetlania, dostępne języki : polski, angielski
      Opcja intuicyjna , możliwośc przełączania języków za pomocą przycisku przełączania 
- - Na liście mecze są możliwe do wykonania akcje t.j. edycja karty meczu, stworzenie raportu, rzpoczęcie meczu - opcje intuicyjne 
+- Na liście mecze są możliwe do wykonania akcje t.j. edycja karty meczu, stworzenie raportu, rzpoczęcie meczu - opcje intuicyjne 
  </details>
  <details>
 <summary> Znaezione błędy aplikacji :lady_beetle:</summary>

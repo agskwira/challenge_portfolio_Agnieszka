@@ -413,8 +413,8 @@ WHERE condition;
 </details>
 
 
-## Subtask 2 - Konfiguracja środowiska i wgranie bazy danych<details>
- 
+### Subtask 2 - Konfiguracja środowiska i wgranie bazy danych
+
 <summary>:woman_teacher: Xampp  </summary> 
 
 <details>
@@ -501,6 +501,7 @@ WHERE movie_id BETWEEN 2 AND 8 AND price > 9;
  
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/9a858e39-25a3-449e-94df-562913205899)
  </details>
+           
 ## Task 6 SQL part 2
            
 <details> 

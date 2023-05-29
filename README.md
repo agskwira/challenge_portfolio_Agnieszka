@@ -423,8 +423,8 @@ To darmowy, wieloplatformowy, zintegrowany pakiet, składający się głównie z
 <details>
 <summary> ❓ zad.1 Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname. </summary> 
             
-<p>SELECT * FROM `actors` 
-ORDER BY `surname`ASC</p>
+SELECT * FROM `actors` 
+ORDER BY `surname`ASC;
  
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/eb73c810-be30-4263-a4d2-7b6ef8f4e374)
 </details>           
@@ -501,6 +501,18 @@ WHERE movie_id BETWEEN 2 AND 8 AND price > 9;
  
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/9a858e39-25a3-449e-94df-562913205899)
  </details>
+## Task 6 SQL part 2
+<details> 
+<summary> ❓zad.11 Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd
+           
+SET surname = "Miler"
+WHERE customer_id = 3;
+           
+![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/2ff628fd-e62d-448b-be1e-3b65cc7d5e1d)
+           ![Uploading image.png…]()
+</details>
+<details> 
+<summary> ❓zad.10 Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej. </summary> 
 
 
 

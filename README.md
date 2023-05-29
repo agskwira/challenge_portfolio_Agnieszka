@@ -422,10 +422,9 @@ To darmowy, wieloplatformowy, zintegrowany pakiet, składający się głównie z
 </details>
 <details>
 <summary> ❓ zad.1 Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname. </summary> 
-           
- 
-SELECT * FROM `actors` 
-ORDER BY `surname`ASC;
+            
+<p>SELECT * FROM `actors` 
+ORDER BY `surname`ASC;/<p>
  
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/eb73c810-be30-4263-a4d2-7b6ef8f4e374)
 </details>           

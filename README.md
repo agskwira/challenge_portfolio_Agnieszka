@@ -477,7 +477,7 @@ WHERE actor_id >= 4 AND actor_id <= 7;
                                     
 </details>
 <details>
-####<summary>❓zad.6 Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny </summary> 
+#### <summary>❓zad.6 Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny </summary> 
  
 SELECT * FROM `customers`  
 WHERE customer_id = 2 OR customer_id = 4 OR customer_id = 6;

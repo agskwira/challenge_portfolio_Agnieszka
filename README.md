@@ -509,7 +509,7 @@ SET surname = "Miler"
 WHERE customer_id = 3;
            
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/2ff628fd-e62d-448b-be1e-3b65cc7d5e1d)
-           ![Uploading image.png…]()
+ 
 </details>
 <details> 
 <summary> ❓zad.10 Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej. </summary> 

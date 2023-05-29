@@ -444,7 +444,8 @@ WHERE `year_of_production`= '2019';
  
 SELECT * FROM `movies` 
 WHERE `year_of_production` BETWEEN 1900 AND 1999;
- 
+
+           
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/3ee2c923-e872-489e-9dac-278625aaed64)
  
 </details>

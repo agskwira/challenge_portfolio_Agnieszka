@@ -15,11 +15,12 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
 ### Subtask 4 :soccer: Scouts panel- exploratory testing:soccer:
 <details>
 <summary> Do czego służy aplikacja "Scouts Panel" :bouncing_ball_person: </summary>
+<p></p>
 "Scout panel" to aplikacja służąca dla zawodników piłki nożnej, która umożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników.
 </details>
 <details>
 <summary>Funkcjonalności aplikacji "Scouts Panel" 	:computer:</summary>
- 
+<p></p> 
  * Logowanie do aplikacji
  
  * Zmiana języka wyświetlania strony
@@ -42,7 +43,7 @@ Wzięłam udział w targach pracy zorganizowanych przez dziewczyny. Armosfera by
  </details>
  <details>
 <summary> Znaezione błędy aplikacji :lady_beetle:</summary>
- 
+<p></p> 
   - Mozlliwość dodania zawodnika, którego imie i nawisko zawodnika, zawierają liczby i znaki specjalne 
  
   - Możliwośc wpisania w pola zdobyte gole, stracone gole, oznaczające ilość  liter
@@ -73,7 +74,7 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
 
 <details>
  <summary> Dlaczego piszemy przypadki testowe :thinking:</summary>
- 
+<p></p> 
   * Przypadki testowe są bazą wiedzy o aplikacji
   * Zdarza się, że przypadki testowe są jedyną dokumentacja o tym jak aplikacja prawidłowo powinna działać
   * Przypadki testowe dają możliwość powtarzalnego, udokumentowanego testowania.
@@ -83,6 +84,7 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
 </details> 
  <details>
   <summary>Narzędzia do pisania przypadków testowych:hammer_and_wrench:</summary> 
+  <p></p>
   * [TestLink](https://testlink.org/)
   * [Azure DevOPS](https://learn.microsoft.com/pl-pl/azure/devops/test/create-test-cases?view=azure-devops)
  </details>
@@ -112,7 +114,7 @@ Brakuje informacji o sposobie działania wielu funkcji aplikacji. Nie chciałaby
 ###  Subtask 2  Testowanie eksploracyjne i raportowanie błędów
 <details>
  <summary> :woman_teacher: Baza wiedzy </summary>
- 
+<p></p> 
  * [Klasy równoważnosci](https://tester.milenabednarczyk.pl/podzial-na-klasy-rownowaznosci-blackbox/)
  * [Analiza wartości brzegowej](https://tester.milenabednarczyk.pl/analiza-wartosci-brzegowych-blackbox/)
  </details>

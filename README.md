@@ -513,7 +513,7 @@ WHERE movie_id BETWEEN 2 AND 8 AND price > 9;
  
 </details>
 <details> 
-<summary> ❓zad.10 Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej. </summary> 
+<summary> ❓zad.12 Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej. </summary> 
            
  <p></p>          
  <p> SELECT  customers.customer_id, customers.name, customers.email, sale.movie_id
@@ -524,14 +524,59 @@ WHERE movie_id BETWEEN 2 AND 8 AND price > 9;
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/b7fb28a2-b820-472a-b70c-719554f5706d)
 </details>
 <details> 
-<summary> Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com</summary> 
+<summary>❓zad. 13 Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com</summary> 
  <p></p>          
 <p>UPDATE customers
 <p>SET email='pati@mail.com'
 <p>WHERE name = 'Patrycja';</p>
+![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/c5a6cba2-46d8-45e3-953c-a212c0eca1da)
+</details>
+<details> 
+<summary>❓Zad.14 Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia). </summary> 
+<p>SELECT customers.customer_id,ustomers.name,customers.surname, movies.title
+<p>FROM customers
+<p>INNER JOIN sale
+<p>ON customers.customer_id = sale.customer_id
+<p>INNER JOIN movies
+<p>ON sale.movie_id=movies.movie_id;</p>
 
+![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/afd82b79-fee4-4adf-bd13-09522d82c849)
+</details>
+<details> 
+<summary>❓Zad.15 W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag </summary>
 
-
+<P>ALTER TABLE customers
+<P>ADD COLUMN pseudonym VARCHAR(30)</P>
+</details>
+<details> 
+<summary>❓16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.</summary>
+</details>
+<P>SELECT DISTINCT sale.movie_id, movies.title FROM movies
+<P>INNER JOIN  sale
+<P>ON sale.movie_id = movies.movie_id
+<P>ORDER BY sale.movie_id</P>         
+![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/fe723cac-2473-4eaa-adaf-264f2e8fdb54)
+<details> 
+<summary>❓17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)</summary>
+<P>SELECT name from customers 
+<P>UNION 
+<P>SELECT name from actors
+<P>ORDER BY name;<p>
+![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/cb9b078d-0aa8-42e4-a0b7-12bcebddadc7)
+</details>
+<details> 
+<summary>❓18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).</summary>
+<P>UPDATE movies
+<P>SET price = price + 2.5
+<P>WHERE year_of_production >2000;</p>
+![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/3989fa93-2b4a-4ab7-8084-5f187f9a4253)
+</details>
+<details> 
+<summary>❓19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał</summary>
+</details>
+<details>           
+<summary>❓20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa</summary>
+</details>           
 
  
  

@@ -422,6 +422,7 @@ To darmowy, wieloplatformowy, zintegrowany pakiet, składający się głównie z
 </details>
 <details>
 <summary> ❓ zad.1 Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname. </summary> 
+           
  
 SELECT * FROM `actors` 
 ORDER BY `surname`ASC;

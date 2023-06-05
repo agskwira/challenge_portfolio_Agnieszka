@@ -586,7 +586,8 @@ WHERE movie_id BETWEEN 2 AND 8 AND price > 9;
 <summary>❓Zad.15 W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag </summary>
 <p></p>
 <P>ALTER TABLE customers
-<P>ADD COLUMN pseudonym VARCHAR(30)</P>
+<P>ADD COLUMN pseudonym VARCHAR(30)
+<P>UPDATE customers SET pseudonym = concat(LEFT(name,2)+RIGHT(surname,1)</P>;
 </details>
 <details> 
 <summary>❓16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.</summary>

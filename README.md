@@ -589,7 +589,10 @@ WHERE movie_id BETWEEN 2 AND 8 AND price > 9;
 <p></p>
 <P>ALTER TABLE customers
 <P>ADD COLUMN pseudonym VARCHAR(30)
-<P>UPDATE customers SET pseudonym = concat(LEFT(name,2)+RIGHT(surname,1);</P>
+<P>UPDATE customers SET pseudonym = concat(LEFT(name,2),+RIGHT(surname,1);</P>
+           
+![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/572cda75-d723-41f9-9fc4-f620cda11254)
+
 </details>
 <details> 
 <summary>❓16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.</summary>

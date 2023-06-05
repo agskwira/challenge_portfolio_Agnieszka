@@ -567,7 +567,9 @@ WHERE movie_id BETWEEN 2 AND 8 AND price > 9;
 <p>UPDATE customers
 <p>SET email='pati@mail.com'
 <p>WHERE name = 'Patrycja';</p>
+           
 ![image](https://github.com/agskwira/challenge_portfolio_Agnieszka/assets/48033238/c5a6cba2-46d8-45e3-953c-a212c0eca1da)
+           
 </details>
 <details> 
 <summary>❓Zad.14 Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia). </summary> 
@@ -587,7 +589,7 @@ WHERE movie_id BETWEEN 2 AND 8 AND price > 9;
 <p></p>
 <P>ALTER TABLE customers
 <P>ADD COLUMN pseudonym VARCHAR(30)
-<P>UPDATE customers SET pseudonym = concat(LEFT(name,2)+RIGHT(surname,1)</P>;
+<P>UPDATE customers SET pseudonym = concat(LEFT(name,2)+RIGHT(surname,1);</P>
 </details>
 <details> 
 <summary>❓16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.</summary>
